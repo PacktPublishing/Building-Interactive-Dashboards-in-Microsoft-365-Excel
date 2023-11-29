@@ -1,0 +1,157 @@
+BusinessEntityID,Name,ContactType,Title,FirstName,MiddleName,LastName,Suffix,PhoneNumber,PhoneNumberType,EmailAddress,EmailPromotion
+1510,"International","Assistant Sales Agent","Ms.","Julia","","Moseley","","432-555-0100","Work","julia0@adventure-works.com",0
+1518,"International Trek Center","Assistant Sales Agent","Mr.","Albert","","Mungin","","439-555-0100","Cell","albert0@adventure-works.com",1
+1522,"First National Sport Co.","Assistant Sales Agent","Ms.","Billie Jo","","Murray","","923-555-0100","Work","billiejo0@adventure-works.com",0
+1528,"Image Makers Bike Center","Assistant Sales Agent","Ms.","Suzanne","","Nelson","","314-555-0100","Cell","suzanne0@adventure-works.com",1
+1536,"Cruger Bike Company","Assistant Sales Agent","Ms.","Lorraine","","Nay","","669-555-0100","Work","lorraine1@adventure-works.com",0
+1582,"Inner City Bikes","Assistant Sales Agent","Ms.","Jyothi","","Pai","","433-555-0100","Cell","jyothi0@adventure-works.com",0
+1596,"A. Datum Corporation","Assistant Sales Agent","Mr.","Frank","","Pellow","","941-555-0100","Cell","frank7@adventure-works.com",0
+1636,"Integrated Sport Products","Assistant Sales Agent","Mr.","Josh","","Pollock","","117-555-0100","Cell","josh1@adventure-works.com",1
+1642,"Electronic Bike Co.","Assistant Sales Agent","Mr.","Jeff","","Price","","927-555-0100","Work","jeff3@adventure-works.com",2
+1646,"Electronic Bike Repair & Supplies","Assistant Sales Agent","Mr.","Sean","","Purcell","","130-555-0100","Cell","sean5@adventure-works.com",0
+1494,"Allenson Cycles","Sales Agent","Ms.","Suchitra","","Mohan","","298-555-0100","Cell","suchitra1@adventure-works.com",0
+1496,"Advanced Bicycles","Sales Agent","Mr.","Eugene","","Zabokritski","","762-555-0100","Cell","eugene3@adventure-works.com",1
+1514,"Training Systems","Sales Agent","Mr.","Zheng","","Mu","","945-555-0100","Cell","zheng1@adventure-works.com",0
+1520,"G & K Bicycle Corp.","Sales Agent","Mr.","Stuart","","Munson","","235-555-0100","Work","stuart2@adventure-works.com",1
+1526,"International Bicycles","Sales Agent","Mr.","Ken","","Myer","","176-555-0100","Work","ken2@adventure-works.com",0
+1528,"Image Makers Bike Center","Sales Agent","Mr.","Dan","","Wilson","","751-555-0100","Cell","dan2@adventure-works.com",0
+1540,"Bergeron Off-Roads","Sales Agent","Mr.","Frank","","Zhang","","889-555-0100","Work","frank8@adventure-works.com",0
+1546,"Green Lake Bike Company","Sales Agent","Mr.","Toby","","Nixon","","269-555-0100","Cell","toby0@adventure-works.com",0
+1550,"Merit Bikes","Sales Agent","Mr.","Fred","","Northup","","330-555-0100","Work","fred1@adventure-works.com",0
+1554,"WestAmerica Bicycle Co.","Sales Agent","Mr.","Tim","","O'Brien","","360-555-0100","Work","tim1@adventure-works.com",1
+1598,"Continental Pro Cycles","Sales Agent","Mr.","Lionel","","Penuchot","","718-555-0100","Work","lionel1@adventure-works.com",0
+1602,"Beaumont Bikes","Sales Agent","Mr.","John","","Peoples","","943-555-0100","Cell","john26@adventure-works.com",1
+1604,"Bike Satellite Inc.","Sales Agent","Mr.","Larry","","Zhang","","143-555-0100","Cell","larry0@adventure-works.com",0
+1616,"Aurora Bike Center","Sales Agent","Mr.","Michael","","Zeman","","240-555-0100","Cell","michael27@adventure-works.com",0
+1622,"Speed Corporation","Sales Agent","Ms.","Deborah","","Poe","","331-555-0100","Cell","deborah2@adventure-works.com",2
+1626,"Hill Bicycle Center","Sales Agent","Ms.","Carole","","Poland","","135-555-0100","Cell","carole1@adventure-works.com",1
+1650,"American Bicycles and Wheels","Sales Agent","Mr.","Robert","","Zare","","314-555-0100","Work","robert14@adventure-works.com",2
+1652,"Victory Bikes","Sales Agent","Ms.","Kim","","Ralls","","193-555-0100","Work","kim4@adventure-works.com",0
+1674,"Varsity Sport Co.","Sales Agent","Mr.","Randy","","Reeves","","668-555-0100","Work","randy1@adventure-works.com",0
+1698,"Business Equipment Center","Sales Agent","Ms.","Karin","","Zimprich","","183-555-0100","Work","karin0@adventure-works.com",1
+1494,"Allenson Cycles","Sales Associate","Mr.","Michiel","","Wories","","530-555-0100","Cell","michiel0@adventure-works.com",2
+1496,"Advanced Bicycles","Sales Associate","Mr.","Jonathan","","Moeller","","859-555-0100","Work","jonathan0@adventure-works.com",0
+1508,"Compete Enterprises, Inc","Sales Associate","Mr.","Jon","","Morris","","321-555-0100","Work","jon2@adventure-works.com",1
+1538,"Vista Road Bikes","Sales Associate","Mr.","Alex","","Nayberg","","134-555-0100","Work","alex1@adventure-works.com",0
+1552,"Sports House","Sales Associate","Ms.","Cathan","","Cook","","55-2555-0100","Work","cathan0@adventure-works.com",1
+1558,"Marsh","Sales Associate","Mr.","Robert","","O'Hara","","139-555-0100","Work","robert11@adventure-works.com",0
+1574,"Jeff's Sporting Goods","Sales Associate","Ms.","Michiko","","Osada","","288-555-0100","Work","michiko1@adventure-works.com",0
+1578,"Vision Cycles, Inc.","Sales Associate","Mr.","Scott","","Oveson","","939-555-0100","Cell","scott9@adventure-works.com",1
+1590,"SUPERSALES INC.","Sales Associate","Mr.","Shyamalan","","Pather","","843-555-0100","Work","shyamalan0@adventure-works.com",1
+1592,"Lindell","Sales Associate","Mr.","Michael","","Patten","","178-555-0100","Cell","michael20@adventure-works.com",2
+1602,"Beaumont Bikes","Sales Associate","Mr.","Peng","","Wu","","306-555-0100","Work","peng1@adventure-works.com",0
+1604,"Bike Satellite Inc.","Sales Associate","Mr.","Jonathan","","Perera","","404-555-0100","Cell","jonathan1@adventure-works.com",1
+1608,"Sport Playground","Sales Associate","Mr.","James","","Peters","","709-555-0100","Cell","james13@adventure-works.com",0
+1614,"Reliance Fitness, Inc.","Sales Associate","Ms.","Carol","","Philips","","996-555-0100","Cell","carol3@adventure-works.com",0
+1624,"Competition Bike Training Systems","Sales Associate","Mr.","Grigory","","Pogulsky","","557-555-0100","Cell","grigory0@adventure-works.com",1
+1640,"Legend Cycles","Sales Associate","Mr.","Fred","","Preston","","704-555-0100","Cell","fred3@adventure-works.com",0
+1656,"Mountain Works","Sales Associate","Ms.","Cynthia","","Randall","","961-555-0100","Work","cynthia1@adventure-works.com",2
+1668,"Touring Equipment Center","Sales Associate","Ms.","Jamie","","Reding","","124-555-0100","Work","jamie0@adventure-works.com",0
+1504,"Chicago Rent-All","Sales Manager","Mr.","Bobby","","Moore","","879-555-0100","Cell","bobby0@adventure-works.com",0
+1506,"Greenwood Athletic Company","Sales Manager","Ms.","Barbara","","Moreland","","959-555-0100","Work","barbara6@adventure-works.com",0
+1508,"Compete Enterprises, Inc","Sales Manager","Ms.","Sheela","","Word","","387-555-0100","Cell","sheela1@adventure-works.com",0
+1516,"Gardner Touring Cycles","Sales Manager","Mr.","Salman","","Mughal","","882-555-0100","Work","salman0@adventure-works.com",1
+1522,"First National Sport Co.","Sales Manager","Mr.","Rob","","Young","","152-555-0100","Cell","rob3@adventure-works.com",2
+1528,"Image Makers Bike Center","Sales Manager","Mr.","Greg","","Yvkoff","","110-555-0100","Work","greg5@adventure-works.com",0
+1530,"Comfort Road Bicycles","Sales Manager","","Mandar","","Naik","","240-555-0100","Cell","mandar1@adventure-works.com",0
+1534,"Ready Rentals","Sales Manager","Mr.","Mike","","Nash","","198-555-0100","Work","mike4@adventure-works.com",0
+1548,"Consumer Cycles","Sales Manager","Ms.","Laura","","Norman","","460-555-0100","Cell","laura2@adventure-works.com",0
+1564,"Illinois Trek & Clothing","Sales Manager","Mr.","Tad","","Orman","","533-555-0100","Work","tad0@adventure-works.com",0
+1568,"Custom Frames, Inc.","Sales Manager","Mr.","Arthur","","Yasinski","","194-555-0100","Work","arthur0@adventure-works.com",1
+1580,"Litware, Inc.","Sales Manager","Ms.","Lori","","Oviatt","","529-555-0100","Work","lori3@adventure-works.com",0
+1594,"Fitness Association","Sales Manager","Mr.","Tom","","Youtsey","","113-555-0100","Work","tom3@adventure-works.com",0
+1596,"A. Datum Corporation","Sales Manager","","Wei","","Yu","","870-555-0100","Work","wei0@adventure-works.com",1
+1600,"Federal Sport","Sales Manager","Mr.","Garrett","","Young","","549-555-0100","Cell","garrett2@adventure-works.com",0
+1616,"Aurora Bike Center","Sales Manager","Mr.","Mark","","Wistrom","","890-555-0100","Cell","mark6@adventure-works.com",0
+1642,"Electronic Bike Co.","Sales Manager","Mr.","Joe","","Yong","","221-555-0100","Work","joe2@adventure-works.com",0
+1648,"Wide World Importers","Sales Manager","Ms.","Tai","","Yee","","953-555-0100","Cell","tai0@adventure-works.com",0
+1660,"Magic Cycles","Sales Manager","Mr.","Simon","","Rapier","","476-555-0100","Work","simon1@adventure-works.com",0
+1670,"Holiday Skate & Cycle","Sales Manager","Mr.","Gary","","Yukish","","518-555-0100","Cell","gary7@adventure-works.com",0
+1686,"Pro Sport Industries","Sales Manager","Mr.","Dave","","Richards","","582-555-0100","Work","dave1@adventure-works.com",0
+1698,"Business Equipment Center","Sales Manager","Mr.","John","","Wood","","873-555-0100","Work","john29@adventure-works.com",0
+1536,"Cruger Bike Company","Sales Agent","Mr.","Mike","E.","White","Sr.","682-555-0100","Work","mike8@adventure-works.com",1
+1680,"Jackson Authority","Sales Agent","Mr.","Adam","J.","Reynolds","Jr.","574-555-0100","Work","adam1@adventure-works.com",1
+1654,"American Bikes","Sales Associate","Mr.","Michael","J.","Worland","Jr.","196-555-0100","Work","michael26@adventure-works.com",0
+1694,"Compete, Inc.","Sales Manager","Mr.","Thomas","M.","Richards","Jr.","177-555-0100","Work","thomas3@adventure-works.com",0
+1542,"Hill's Bicycle Service","Assistant Sales Agent","Mr.","Amir","T.","Netz","","362-555-0100","Work","amir0@adventure-works.com",0
+1568,"Custom Frames, Inc.","Assistant Sales Agent","Mr.","Fred","A.","Ortiz","","275-555-0100","Cell","fred2@adventure-works.com",0
+1594,"Fitness Association","Assistant Sales Agent","Ms.","Trish","E.","Pederson","","550-555-0100","Work","trish0@adventure-works.com",0
+1600,"Federal Sport","Assistant Sales Agent","Ms.","Elizabeth","M.","Peoples","","614-555-0100","Cell","elizabeth3@adventure-works.com",0
+1630,"Indiana Bicycle Center","Assistant Sales Agent","","Alma","B.","Poorbaugh","","153-555-0100","Work","alma0@adventure-works.com",0
+1644,"International Sport Assoc.","Assistant Sales Agent","Mr.","Milton","M.","Pugh","","164-555-0100","Cell","milton1@adventure-works.com",1
+1648,"Wide World Importers","Assistant Sales Agent","Ms.","Monica","L.","Quintana","","207-555-0100","Work","monica0@adventure-works.com",0
+1670,"Holiday Skate & Cycle","Assistant Sales Agent","Mr.","Russell","A.","Reed","","115-555-0100","Cell","russell3@adventure-works.com",2
+1492,"Australia Bike Retailer","Sales Agent","Ms.","Jo","J.","Zimmerman","","816-555-0100","Work","jo3@adventure-works.com",1
+1502,"Cycling Master","Sales Agent","Ms.","Hillaine","N.","Montera","","920-555-0100","Cell","hillaine0@adventure-works.com",0
+1508,"Compete Enterprises, Inc","Sales Agent","Ms.","Carla","J.","Zubaty","","516-555-0100","Cell","carla2@adventure-works.com",0
+1512,"Light Speed","Sales Agent","Ms.","Marie","E.","Moya","","114-555-0100","Work","marie0@adventure-works.com",0
+1522,"First National Sport Co.","Sales Agent","Mr.","Todd","K.","Whitney","","376-555-0100","Cell","todd1@adventure-works.com",0
+1542,"Hill's Bicycle Service","Sales Agent","Mr.","Benjamin","C.","Willett","","302-555-0100","Work","benjamin3@adventure-works.com",0
+1544,"Circuit Cycles","Sales Agent","Mr.","Donals","E.","Nilson","","526-555-0100","Work","donals0@adventure-works.com",2
+1560,"Capital Road Cycles","Sales Agent","Mr.","Nino","E.","Olivotto","","528-555-0100","Cell","nino0@adventure-works.com",2
+1566,"Burnett Road Warriors","Sales Agent","Mr.","Arvid","B.","Ziegler","","398-555-0100","Work","arvid0@adventure-works.com",0
+1568,"Custom Frames, Inc.","Sales Agent","Mr.","Vincent","T.","White","","677-555-0100","Cell","vincent0@adventure-works.com",2
+1570,"First Rate Bicycles","Sales Agent","Mr.","John","E.","Ortiz","","133-555-0100","Cell","john25@adventure-works.com",1
+1572,"National Bike Association","Sales Agent","Mr.","David","J.","Ortiz","","937-555-0100","Cell","david21@adventure-works.com",1
+1584,"Trey Research","Sales Agent","Mr.","Cristian","B.","Osorio","","597-555-0100","Work","cristian1@adventure-works.com",1
+1594,"Fitness Association","Sales Agent","Ms.","Kelly","J.","Whitworth","","550-555-0100","Cell","kelly1@adventure-works.com",0
+1596,"A. Datum Corporation","Sales Agent","Mr.","Jay","J.","Wilkie","","813-555-0100","Cell","jay5@adventure-works.com",0
+1600,"Federal Sport","Sales Agent","Mr.","Shawn","M.","Whitney","","803-555-0100","Work","shawn1@adventure-works.com",0
+1606,"Northwind Traders","Sales Agent","Ms.","Tina","A.","Perko","","104-555-0100","Cell","tina1@adventure-works.com",2
+1610,"Hybrid Bicycle Center","Sales Agent","Mr.","Glin","J.","Peterson","","626-555-0100","Work","glin0@adventure-works.com",1
+1628,"Bicycle Specialists","Sales Agent","Ms.","Cheryl","J.","Pompa","","433-555-0100","Cell","cheryl1@adventure-works.com",0
+1634,"GMA Ski & Bike","Sales Agent","Ms.","Constance","J.","Posner","","686-555-0100","Work","constance0@adventure-works.com",2
+1638,"Inline Accessories","Sales Agent","Ms.","Betty","J.","Potts","","120-555-0100","Work","betty1@adventure-works.com",1
+1642,"Electronic Bike Co.","Sales Agent","Mr.","Gregory","R.","Whiting","","218-555-0100","Work","gregory3@adventure-works.com",0
+1646,"Electronic Bike Repair & Supplies","Sales Agent","Ms.","Catherine","M.","Whitney","","206-555-0100","Cell","catherine1@adventure-works.com",0
+1648,"Wide World Importers","Sales Agent","Mr.","Steven","K.","Whitehead","","327-555-0100","Work","steven4@adventure-works.com",1
+1654,"American Bikes","Sales Agent","Ms.","Susan","J.","Ramos","","839-555-0100","Cell","susan5@adventure-works.com",1
+1664,"Anderson's Custom Bikes","Sales Agent","Ms.","Suzann","K.","Reams","","354-555-0100","Cell","suzann0@adventure-works.com",2
+1666,"Leaf River Terrain","Sales Agent","Ms.","Michelle","B.","Rector","","459-555-0100","Cell","michelle1@adventure-works.com",1
+1670,"Holiday Skate & Cycle","Sales Agent","Ms.","Gloria","B.","Wilson","","893-555-0100","Work","gloria2@adventure-works.com",0
+1672,"Expert Bike Co","Sales Agent","Ms.","Celine","J.","Reed","","340-555-0100","Work","celine0@adventure-works.com",2
+1688,"Wood Fitness","Sales Agent","Mr.","Jack","S.","Richins","","705-555-0100","Cell","jack3@adventure-works.com",0
+1690,"Bloomington Multisport","Sales Agent","Ms.","Marie","M.","Richmeier","","172-555-0100","Work","marie1@adventure-works.com",0
+1692,"Carlson Specialties","Sales Agent","Ms.","Juanita","J.","Zimmerman","","194-555-0100","Cell","juanita1@adventure-works.com",2
+1492,"Australia Bike Retailer","Sales Associate","Ms.","Paula","B.","Moberly","","273-555-0100","Cell","paula2@adventure-works.com",2
+1498,"Trikes, Inc.","Sales Associate","Mr.","William","J.","Monroe","","315-555-0100","Work","william3@adventure-works.com",1
+1500,"Morgan Bike Accessories","Sales Associate","Ms.","Alan","L.","Monitor","","142-555-0100","Cell","alan2@adventure-works.com",0
+1516,"Gardner Touring Cycles","Sales Associate","Mr.","Michael","J.","Zwilling","","542-555-0100","Cell","michael28@adventure-works.com",2
+1524,"Recreation Place","Sales Associate","Ms.","Dorothy","J.","Myer","","991-555-0100","Work","dorothy2@adventure-works.com",0
+1540,"Bergeron Off-Roads","Sales Associate","Ms.","Jan","R.","Nelsen","","905-555-0100","Work","jan2@adventure-works.com",1
+1556,"West Junction Cycles","Sales Associate","","Tina","Slone","O'Dell","","173-555-0100","Work","tina0@adventure-works.com",1
+1562,"Norstan Bike Hut","Sales Associate","Mr.","Lee","M.","Olguin","","944-555-0100","Work","lee1@adventure-works.com",1
+1566,"Burnett Road Warriors","Sales Associate","Ms.","Gloria","B.","Orona","","810-555-0100","Work","gloria1@adventure-works.com",1
+1576,"Superior Bicycles","Sales Associate","Mr.","Stu","J.","Osborn","","472-555-0100","Work","stu0@adventure-works.com",1
+1586,"Mitchell Sports","Sales Associate","Ms.","Mosha","M.","Park","","352-555-0100","Work","mosha0@adventure-works.com",2
+1588,"Signature Cycles","Sales Associate","Mr.","Rajesh","M.","Patel","","724-555-0100","Work","rajesh1@adventure-works.com",1
+1612,"Midwest Sport, Inc.","Sales Associate","Ms.","Sara","E.","Pettengill","","125-555-0100","Work","sara1@adventure-works.com",0
+1616,"Aurora Bike Center","Sales Associate","Ms.","Patricia","B.","Porter","","939-555-0100","Work","patricia1@adventure-works.com",2
+1618,"Metro Sport Equipment","Sales Associate","Mr.","Pat","R.","Pinkston","","387-555-0100","Work","pat3@adventure-works.com",0
+1632,"Sport Fan Co.","Sales Associate","Ms.","Ethel","J.","Porter","","665-555-0100","Work","ethel0@adventure-works.com",2
+1650,"American Bicycles and Wheels","Sales Associate","Ms.","Mary Lou","M.","Quintana","","430-555-0100","Cell","marylou0@adventure-works.com",0
+1658,"Crowley Sport","Sales Associate","Ms.","Judy","N.","Zugelder","","611-555-0100","Work","judy4@adventure-works.com",1
+1662,"Northern Bike Travel","Sales Associate","Ms.","Patricia","M.","Zubaty","","175-555-0100","Work","patricia3@adventure-works.com",0
+1664,"Anderson's Custom Bikes","Sales Associate","Mr.","Steven","M.","Wright","","232-555-0100","Work","steven5@adventure-works.com",0
+1676,"Team Athletic Co.","Sales Associate","Mr.","Enoch","T","Remick","","800-555-0100","Work","enoch0@adventure-works.com",2
+1682,"Premier Sport, Inc.","Sales Associate","Ms.","Constance","J.","Remmington","","537-555-0100","Work","constance1@adventure-works.com",1
+1684,"Professional Athletic Consultants","Sales Associate","Mr.","Albert","A.","Rhodes","","504-555-0100","Cell","albert1@adventure-works.com",0
+1692,"Carlson Specialties","Sales Associate","Mr.","William","J.","Richter","","519-555-0100","Cell","william4@adventure-works.com",0
+1698,"Business Equipment Center","Sales Associate","Ms.","Leota","J.","Roberts","","336-555-0100","Work","leota0@adventure-works.com",0
+1492,"Australia Bike Retailer","Sales Manager","Ms.","Charlene","J.","Wojcik","","459-555-0100","Cell","charlene0@adventure-works.com",0
+1496,"Advanced Bicycles","Sales Manager","Mr.","James","C.","Wilson","","239-555-0100","Work","james16@adventure-works.com",0
+1532,"Knopfler Cycles","Sales Manager","Mr.","Greg","F.","Mohamed","","163-555-0100","Cell","greg4@adventure-works.com",0
+1536,"Cruger Bike Company","Sales Manager","Ms.","Lenore","J.","Yasi","","206-555-0100","Cell","lenore0@adventure-works.com",1
+1540,"Bergeron Off-Roads","Sales Manager","Ms.","Audrey","E.","Wold","","301-555-0100","Cell","audrey0@adventure-works.com",1
+1542,"Hill's Bicycle Service","Sales Manager","Mr.","Ian","A.","Yuhasz","","845-555-0100","Cell","ian0@adventure-works.com",1
+1552,"Sports House","Sales Manager","Mr.","Michael","J","O'Connell","","761-555-0100","Work","michael19@adventure-works.com",0
+1566,"Burnett Road Warriors","Sales Manager","Ms.","Dorothy","M.","Wollesen","","208-555-0100","Work","dorothy5@adventure-works.com",1
+1604,"Bike Satellite Inc.","Sales Manager","Ms.","Eunice","J.","Wolf","","305-555-0100","Cell","eunice0@adventure-works.com",0
+1620,"Lakewood Bicycle","Sales Manager","Mr.","Paulo","Sergio Da Silva","Pinto","","823-555-0100","Cell","paulo1@adventure-works.com",0
+1646,"Electronic Bike Repair & Supplies","Sales Manager","Mr.","Richard","T.","Young","","683-555-0100","Cell","richard6@adventure-works.com",0
+1650,"American Bicycles and Wheels","Sales Manager","Ms.","Barbara","K.","Wisnewski","","757-555-0100","Work","barbara8@adventure-works.com",0
+1658,"Crowley Sport","Sales Manager","Mr.","Arvind","B.","Rao","","141-555-0100","Work","arvind1@adventure-works.com",1
+1662,"Northern Bike Travel","Sales Manager","Mr.","Michael","S","Ray","","317-555-0100","Cell","michael21@adventure-works.com",1
+1678,"Proseware, Inc.","Sales Manager","Mr.","Eric","E.","Rhodes","","113-555-0100","Work","eric8@adventure-works.com",2
+1692,"Carlson Specialties","Sales Manager","Ms.","Caroline","M.","Woodard","","384-555-0100","Work","caroline1@adventure-works.com",0
+1696,"Chicago City Saddles","Sales Manager","Ms.","Stacy","K.","Rizzi","","329-555-0100","Work","stacy0@adventure-works.com",0
