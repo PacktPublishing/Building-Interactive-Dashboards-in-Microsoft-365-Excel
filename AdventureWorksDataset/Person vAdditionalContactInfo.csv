@@ -1,0 +1,11 @@
+BusinessEntityID,FirstName,MiddleName,LastName,TelephoneNumber,TelephoneSpecialInstructions,Street,City,StateProvince,PostalCode,CountryRegion,HomeAddressSpecialInstructions,EMailAddress,EMailSpecialInstructions,EMailTelephoneNumber,rowguid,ModifiedDate
+291,"Gustavo","","Achong","425-555-1112","Call only after 5:00 p.m.","123 Oak","Seattle","WA","98001","USA","If correspondence to the primary address fails, try this one.","customer1@sample.com","For urgent issues, do not send e-mail. Instead use this emergency contact phone","425-555-1111","D4C132D3-FCB5-4231-9DD5-888A54BEC693",2015-04-15 16:33:33.060
+293,"Catherine","R.","Abel","206-555-2222","On weekends, contact the manager at this number.","P.O Box 5","Edmonds","WA","98431","USA","This is an alternative address for billing only.","Joe@sample.com","Do not send e-mail for urgent issues. Use telephone instead.","","D54E0552-C226-4C22-AF3B-762CA854CDD3",2015-04-15 16:33:33.076
+295,"Kim","","Abercrombie","605-555-9877","","990 5th Avenue","Redmond","WA","98052","USA","Use this address for billing only.","Customer3@sample.com","Do not send e-mails for urgent issues. Use telephone instead.","","F7CBDB48-0B44-470E-9F37-7060446FBFB9",2015-04-15 16:33:33.076
+297,"Humberto","","Acevedo","","","","","","","","","Customer4@sample.com","This is secondary email address.","","5A41D336-84CF-44D7-B12B-83B64B511F7E",2015-04-15 16:33:33.090
+299,"Pilar","","Ackerman","","","","","","","","","","","","DF1FB8AB-2323-4330-9AB8-54E13CE6D8F9",2015-04-15 16:33:33.090
+301,"Frances","B.","Adams","","","","","","","","","Customer6@sample.com","","","66980082-C186-40AE-972A-74560E78C1AF",2015-04-15 16:33:33.090
+303,"Margaret","J.","Smith","206-555-2222","Best time to call is Monday-Wednesday mornings.","","","","","","","","","","691818E1-FC19-445F-B161-E401867368E3",2015-04-15 16:33:33.106
+305,"Carla","J.","Adams","","","","","","","","","","","","5F183B92-1648-4948-8937-47C9C10F0583",2015-04-15 16:33:33.106
+307,"Jay","","Adams","253-555-4689","","","","","","","","","","","38256645-4B88-4169-B68A-5B0118F18445",2015-04-15 16:33:33.123
+309,"Ronald","L.","Adina","","","","","","","","","","","","DBB05A55-2256-42B1-901E-824D28158911",2015-04-15 16:33:33.123

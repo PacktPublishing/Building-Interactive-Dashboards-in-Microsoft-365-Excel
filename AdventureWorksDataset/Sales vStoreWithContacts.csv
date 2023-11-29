@@ -1,0 +1,754 @@
+BusinessEntityID,Name,ContactType,Title,FirstName,MiddleName,LastName,Suffix,PhoneNumber,PhoneNumberType,EmailAddress,EmailPromotion
+372,"The Gear Store","Owner","Mr.","John","","Arthur","","149-555-0113","Cell","john6@adventure-works.com",0
+386,"Nice Bikes","Owner","Mr.","Daniel","","Blanco","","221-555-0167","Cell","daniel0@adventure-works.com",0
+444,"Fourth Bike Store","Owner","Mr.","Mason","","Bendixen","","608-555-0114","Work","mason0@adventure-works.com",0
+518,"Latest Sports Equipment","Owner","Mr.","Richard","","Bready","","340-555-0131","Work","richard1@adventure-works.com",0
+624,"Budget Toy Store","Owner","Mr.","Tony","","Wang","","859-555-0100","Work","tony1@adventure-works.com",0
+644,"Aerobic Exercise Company","Owner","Mr.","Bryan","","Walton","","858-555-0100","Work","bryan3@adventure-works.com",0
+646,"Rural Sporting Goods","Owner","Mr.","Matthew","","Carroll","","1 (11) 500 555-0191","Work","matthew0@adventure-works.com",0
+666,"Fitness Discount Store","Owner","Mr.","Sean","","Chai","","1 (11) 500 555-0134","Cell","sean3@adventure-works.com",0
+674,"Imaginary Toys","Owner","Mr.","Greg","","Chapman","","708-555-0169","Work","greg1@adventure-works.com",0
+814,"Excellent Riding Supplies","Owner","Mr.","Andrew","","Dixon","","576-555-0171","Cell","andrew3@adventure-works.com",0
+938,"Two Bike Shops","Owner","Mr.","Jim","","Geist","","724-555-0161","Work","jim1@adventure-works.com",0
+942,"Wheels Inc.","Owner","Mr.","Tom","","Getzinger","","1 (11) 500 555-0198","Cell","tom2@adventure-works.com",0
+1018,"Trusted Catalog Store","Owner","Mr.","Jeff","","Stammler","","632-555-0100","Work","jeff5@adventure-works.com",0
+1052,"Traditional Department Stores","Owner","Mr.","Jay","","Henningsen","","272-555-0126","Work","jay3@adventure-works.com",0
+1062,"Online Bike Warehouse","Owner","Mr.","Jésus","","Hernandez","","214-555-0145","Work","jésus0@adventure-works.com",0
+1080,"Exchange Parts Inc.","Owner","Mr.","Reinout","","Hillmann","","597-555-0132","Cell","reinout1@adventure-works.com",0
+1090,"General Associates","Owner","Mr.","Douglas","","Hite","","419-555-0166","Work","douglas3@adventure-works.com",0
+1196,"Weekend Bike Tours","Owner","Mr.","Sandeep","","Kaliyath","","495-555-0113","Work","sandeep1@adventure-works.com",0
+1210,"Pretty Bikes and Toys","Owner","Mr.","Kendall","","Keil","","1 (11) 500 555-0115","Cell","kendall1@adventure-works.com",0
+1228,"District Mall","Owner","Mr.","Imtiaz","","Khan","","249-555-0179","Cell","imtiaz0@adventure-works.com",0
+1234,"Spare Parts Co.","Owner","Mr.","Jim","","Kim","","1 (11) 500 555-0165","Cell","jim2@adventure-works.com",0
+1238,"Consolidated Messenger","Owner","Mr.","Tim","","Kim","","244-555-0115","Cell","tim0@adventure-works.com",0
+1240,"Daring Rides","Owner","Mr.","Russell","","King","","871-555-0159","Cell","russell2@adventure-works.com",0
+1244,"Finish and Sealant Products","Owner","Mr.","Christian","","Kleinerman","","362-555-0177","Work","christian1@adventure-works.com",0
+1254,"Mountain Bike Center","Owner","Mr.","Eugene","","Kogan","","136-555-0134","Cell","eugene2@adventure-works.com",0
+1272,"Outdoor Aerobic Systems Company","Owner","Mr.","Deepak","","Kumar","","1 (11) 500 555-0122","Cell","deepak0@adventure-works.com",0
+1276,"Metal Clearing House","Owner","Mr.","Vamsi","","Kuppa","","290-555-0196","Cell","vamsi1@adventure-works.com",0
+1280,"Largest Bike Store","Owner","Mr.","Peter","","Kurniawan","","436-555-0160","Cell","peter4@adventure-works.com",0
+1282,"Kickstands and Accessories Company","Owner","Mr.","Eric","","Lang","","932-555-0163","Cell","eric6@adventure-works.com",0
+1880,"Off-Price Bike Center","Owner","Mr.","Ram","","Thirunavukkarasu","","1 (11) 500 555-0114","Cell","ram0@adventure-works.com",0
+1898,"Valuable Bike Parts Company","Owner","Mr.","Mike","","Tiano","","430-555-0121","Cell","mike7@adventure-works.com",0
+1904,"Mobile Outlet","Owner","Mr.","Tony","","Ting","","538-555-0182","Cell","tony0@adventure-works.com",0
+1908,"Rural Bicycle Supply","Owner","Mr.","Dragan","","Tomic","","833-555-0167","Cell","dragan1@adventure-works.com",0
+1946,"Swift Cycles","Owner","Mr.","Sunil","","Uppal","","184-555-0187","Work","sunil0@adventure-works.com",0
+1986,"Recreation Toy Store","Owner","Mr.","Kevin","","Verboort","","1 (11) 500 555-0116","Cell","kevin6@adventure-works.com",0
+614,"Outdoor Sporting Goods","Purchasing Agent","Mr.","Chris","","Cannon","","118-555-0131","Work","chris5@adventure-works.com",0
+620,"Tandem Bicycle Store","Purchasing Agent","Mr.","Jun","","Cao","","488-555-0130","Work","jun1@adventure-works.com",0
+628,"Ace Bicycle Supply","Purchasing Agent","Mr.","Ty Loren","","Carlson","","1 (11) 500 555-0120","Cell","tyloren0@adventure-works.com",0
+660,"Sports Merchandise","Purchasing Agent","Mr.","Andrew","","Cencini","","644-555-0111","Work","andrew2@adventure-works.com",0
+690,"Kids and Adults Cycle Shop","Purchasing Agent","Mr.","Martin","","Chisholm","","1 (11) 500 555-0142","Cell","martin0@adventure-works.com",0
+760,"Handy Bike Services","Purchasing Agent","Mr.","Grant","","Culbertson","","859-555-0173","Work","grant1@adventure-works.com",0
+762,"Friendly Bike Shop","Purchasing Agent","Mr.","Scott","","Culp","","119-555-0167","Cell","scott3@adventure-works.com",0
+764,"Fashionable Bikes and Accessories","Purchasing Agent","Mr.","Conor","","Cunningham","","115-555-0113","Work","conor0@adventure-works.com",0
+768,"Citywide Service and Repair","Purchasing Agent","Mr.","Thierry","","D'Hers","","680-555-0192","Cell","thierry1@adventure-works.com",0
+772,"Professional Sporting Goods","Purchasing Agent","Mr.","Mike","","Danseglio","","219-555-0126","Cell","mike2@adventure-works.com",0
+786,"Outdoor Equipment Store","Purchasing Agent","Mr.","Kirk","","DeGrasse","","820-555-0166","Work","kirk1@adventure-works.com",0
+828,"Vigorous Exercise Company","Purchasing Agent","Mr.","Reuben","","D'sa","","916-555-0137","Work","reuben1@adventure-works.com",0
+830,"Showcase for Cycles","Purchasing Agent","Mr.","Ed","","Dudenhoefer","","1 (11) 500 555-0153","Work","ed1@adventure-works.com",0
+832,"Lease-a-Bike Shop","Purchasing Agent","Mr.","Bernard","","Duerr","","158-555-0188","Cell","bernard0@adventure-works.com",0
+854,"First Center","Purchasing Agent","Mr.","Michael","","Emanuel","","1 (11) 500 555-0130","Cell","michael14@adventure-works.com",0
+856,"Action Bicycle Specialists","Purchasing Agent","Mr.","Terry","","Eminhizer","","1 (11) 500 555-0176","Work","terry1@adventure-works.com",0
+874,"Real Sporting Goods","Purchasing Agent","Mr.","John","","Evans","","581-555-0172","Work","john17@adventure-works.com",0
+876,"Versatile Sporting Goods Company","Purchasing Agent","Mr.","Marc","","Faeber","","1 (11) 500 555-0191","Cell","marc1@adventure-works.com",0
+878,"Bicycle Outfitters","Purchasing Agent","Mr.","Fadi","","Fakhouri","","153-555-0114","Cell","fadi1@adventure-works.com",0
+890,"Expert Sports Store","Purchasing Agent","Mr.","James","","Fine","","993-555-0162","Cell","james5@adventure-works.com",0
+964,"Year-Round Sports","Purchasing Agent","Mr.","Scott","","Gode","","164-555-0145","Cell","scott4@adventure-works.com",0
+968,"Resident Cycle Shop","Purchasing Agent","Mr.","Jossef","","Goldberg","","621-555-0157","Cell","jossef1@adventure-works.com",0
+980,"Wholesale Parts","Purchasing Agent","Mr.","Derek","","Graham","","674-555-0187","Cell","derek0@adventure-works.com",0
+992,"Latest Accessories Sales","Purchasing Agent","Mr.","Florian","","Voss","","987-555-0100","Cell","florian0@adventure-works.com",0
+1022,"Sharp Bikes","Purchasing Agent","Mr.","Sethu","","Srinivasan","","836-555-0100","Cell","sethu0@adventure-works.com",0
+1298,"Racing Partners","Purchasing Agent","Mr.","Mark","","Lee","","371-555-0112","Work","mark5@adventure-works.com",0
+1350,"Every Bike Shop","Purchasing Agent","Mr.","Spencer","","Low","","333-555-0113","Work","spencer0@adventure-works.com",0
+1356,"Larger Cycle Shop","Purchasing Agent","Mr.","Richard","","Lum","","140-555-0128","Work","richard5@adventure-works.com",0
+1406,"Professional Cyclists","Purchasing Agent","Mr.","Steve","","Masters","","154-555-0115","Cell","steve2@adventure-works.com",0
+1408,"Sports Products Store","Purchasing Agent","Mr.","Joseph","","Matthews","","1 (11) 500 555-0174","Work","joseph3@adventure-works.com",0
+1412,"City Manufacturing","Purchasing Agent","Mr.","Chris","","Maxwell","","642-555-0187","Cell","chris6@adventure-works.com",0
+1434,"Endurance Bikes","Purchasing Agent","Mr.","Alejandro","","McGuel","","378-555-0157","Work","alejandro1@adventure-works.com",0
+1830,"Getaway Inn","Purchasing Agent","Mr.","Min","","Su","","1 (11) 500 555-0149","Cell","min1@adventure-works.com",0
+1842,"Racing Sales and Service","Purchasing Agent","Mr.","Nate","","Sun","","1 (11) 500 555-0122","Cell","nate0@adventure-works.com",0
+1844,"Metropolitan Bicycle Supply","Purchasing Agent","Mr.","Krishna","","Sunkammurali","","1 (11) 500 555-0177","Work","krishna1@adventure-works.com",0
+1854,"Region Bike Company","Purchasing Agent","Mr.","Manoj","","Syamala","","1 (11) 500 555-0181","Cell","manoj0@adventure-works.com",0
+1866,"Gears and Parts Company","Purchasing Agent","Mr.","Denis","","Taylor","","1 (11) 500 555-0155","Cell","denis0@adventure-works.com",0
+1960,"Sports Store","Purchasing Agent","Mr.","Roger","","Van Houten","","1 (11) 500 555-0110","Work","roger2@adventure-works.com",0
+1968,"Solid Bike Parts","Purchasing Agent","Mr.","Michael","","Vanderhyde","","918-555-0141","Cell","michael25@adventure-works.com",0
+412,"Gasless Cycle Shop","Purchasing Manager","Mr.","Josh","","Barnhill","","584-555-0192","Work","josh0@adventure-works.com",0
+448,"Traction Tire Company","Purchasing Manager","Mr.","Ido","","Ben-Sachar","","973-555-0112","Cell","ido0@adventure-works.com",0
+454,"Tire Company","Purchasing Manager","Mr.","Max","","Benson","","599-555-0160","Work","max0@adventure-works.com",0
+486,"Global Sporting Goods","Purchasing Manager","Mr.","Mary","","Bishop","","176-555-0136","Work","mary4@adventure-works.com",0
+542,"Best o' Bikes","Purchasing Manager","Mr.","Robert","","Brown","","575-555-0189","Work","robert5@adventure-works.com",0
+556,"Mechanical Products Ltd.","Purchasing Manager","Mr.","Michael","","Brundage","","128-555-0148","Cell","michael13@adventure-works.com",0
+576,"Independent Outlet","Purchasing Manager","Mr.","Ovidiu","","Burlacu","","710-555-0116","Cell","ovidiu1@adventure-works.com",0
+622,"Bikes and Motorbikes","Purchasing Manager","Mr.","Qiang","","Wang","","165-555-0100","Work","qiang0@adventure-works.com",0
+638,"Responsible Bike Dealers","Purchasing Manager","Mr.","Rob","","Caron","","620-555-0117","Cell","rob2@adventure-works.com",0
+640,"Western Bike Supplies","Purchasing Manager","Mr.","Andy","","Carothers","","944-555-0148","Work","andy1@adventure-works.com",0
+682,"Thrilling Bike Tours","Purchasing Manager","Mr.","Pei","","Chow","","789-555-0184","Cell","pei0@adventure-works.com",0
+720,"Machines & Cycles Store","Purchasing Manager","Mr.","Pat","","Coleman","","292-555-0128","Cell","pat2@adventure-works.com",0
+728,"Wholesale Bikes","Purchasing Manager","Mr.","Aaron","","Con","","652-555-0115","Work","aaron0@adventure-works.com",0
+730,"Very Best Sports Supply","Purchasing Manager","Mr.","Peter","","Connelly","","1 (11) 500 555-0117","Work","peter2@adventure-works.com",0
+742,"Vehicle Shop","Purchasing Manager","Mr.","Scott","","Cooper","","773-555-0182","Work","scott2@adventure-works.com",0
+894,"Jumbo Bikes","Purchasing Manager","Mr.","Jay","","Fluegel","","1 (11) 500 555-0119","Cell","jay2@adventure-works.com",0
+900,"Basic Sports Equipment","Purchasing Manager","Mr.","Garth","","Fort","","768-555-0125","Cell","garth0@adventure-works.com",0
+906,"Fitness Bike Accessories","Purchasing Manager","Mr.","John","","Fredericksen","","1 (11) 500 555-0123","Work","john18@adventure-works.com",0
+912,"Retail Cycle Shop","Purchasing Manager","Mr.","Mihail","","Frintu","","777-555-0163","Cell","mihail1@adventure-works.com",0
+924,"Riding Excursions","Purchasing Manager","Mr.","Michael","","Galos","","912-555-0149","Cell","michael15@adventure-works.com",0
+950,"The Bicycle Accessories Company","Purchasing Manager","Mr.","Guy","","Gilbert","","583-555-0198","Work","guy0@adventure-works.com",0
+996,"Hometown Riding Supplies","Purchasing Manager","Mr.","Greg","","Harrison","","1 (11) 500 555-0112","Work","greg2@adventure-works.com",0
+1010,"Cross-Country Riding Supplies","Purchasing Manager","Mr.","Bryan","","Hamilton","","344-555-0144","Cell","bryan2@adventure-works.com",0
+1014,"Bike World","Purchasing Manager","Mr.","Kerim","","Hanif","","216-555-0122","Work","kerim0@adventure-works.com",0
+1018,"Trusted Catalog Store","Purchasing Manager","Mr.","Mark","","Hanson","","497-555-0147","Cell","mark3@adventure-works.com",0
+1026,"Metropolitan Sports Supply","Purchasing Manager","Mr.","Lucy","","Harrington","","828-555-0186","Work","lucy0@adventure-works.com",0
+1142,"Major Amusement Company","Purchasing Manager","Mr.","Raman","","Iyer","","1 (11) 500 555-0112","Cell","raman0@adventure-works.com",0
+1152,"Exceptional Cycle Services","Purchasing Manager","Mr.","David","","Jaffe","","1 (11) 500 555-0140","Cell","david17@adventure-works.com",0
+1160,"West Wind Distributors","Purchasing Manager","Mr.","George","","Jiang","","1 (11) 500 555-0112","Work","george2@adventure-works.com",0
+1346,"Fitness Hotel","Purchasing Manager","Mr.","Peter","","Waxman","","458-555-0100","Cell","peter6@adventure-works.com",0
+1358,"Leading Sales & Repair","Purchasing Manager","Mr.","Paul","","West","","779-555-0100","Work","paul6@adventure-works.com",0
+1374,"Yellow Bicycle Company","Purchasing Manager","Mr.","Scott","","MacDonald","","470-555-0171","Cell","scott7@adventure-works.com",0
+1382,"Shipping Specialists","Purchasing Manager","Mr.","Ajay","","Manchepalli","","1 (11) 500 555-0174","Cell","ajay0@adventure-works.com",0
+1450,"Guaranteed Sales and Service","Purchasing Manager","Mr.","Tosh","","Meston","","995-555-0114","Cell","tosh0@adventure-works.com",0
+1464,"List Price Catalog Company","Purchasing Manager","Mr.","Ramesh","","Meyyappan","","1 (11) 500 555-0114","Work","ramesh1@adventure-works.com",0
+1480,"Orange Bicycle Company","Purchasing Manager","Mr.","Frank","","Miller","","118-555-0184","Cell","frank6@adventure-works.com",0
+1804,"Cycle Clearance","Purchasing Manager","Mr.","Alan","","Steiner","","792-555-0194","Work","alan4@adventure-works.com",0
+318,"Great Bikes","Owner","Mr.","François","","Ferrier","","571-555-0128","Cell","françois1@adventure-works.com",1
+434,"Country Parts Shop","Owner","Mr.","Bradley","","Beck","","1 (11) 500 555-0127","Work","bradley0@adventure-works.com",1
+510,"Bikes for Two","Owner","Mr.","Eli","","Bowen","","371-555-0143","Cell","eli0@adventure-works.com",1
+664,"Casual Bicycle Store","Owner","Mr.","Baris","","Cetinok","","301-555-0128","Cell","baris1@adventure-works.com",1
+816,"Farthermost Bike Shop","Owner","Mr.","Blaine","","Dockter","","156-555-0187","Work","blaine0@adventure-works.com",1
+936,"Journey Sporting Goods","Owner","Mr.","Darren","","Gehring","","417-555-0182","Cell","darren0@adventure-works.com",1
+996,"Hometown Riding Supplies","Owner","Mr.","William","","Vong","","809-555-0100","Cell","william6@adventure-works.com",1
+1024,"Exemplary Cycles","Owner","Mr.","Mahesh","","Smith","","610-555-0100","Work","mahesh0@adventure-works.com",1
+1036,"Mountain Bike Store","Owner","Mr.","Mark","","Hassall","","751-555-0119","Work","mark4@adventure-works.com",1
+1042,"Popular Bike Lines","Owner","Mr.","Jeff","","Hay","","1 (11) 500 555-0182","Cell","jeff1@adventure-works.com",1
+1048,"Countryside Company","Owner","Mr.","John","","Hanson","","107-555-0117","Work","john20@adventure-works.com",1
+1056,"General Department Stores","Owner","Mr.","Kari","","Hensien","","143-555-0129","Cell","kari0@adventure-works.com",1
+1082,"First Cycle Store","Owner","Mr.","Mike","","Hines","","454-555-0160","Work","mike3@adventure-works.com",1
+1100,"All Seasons Sports Supply","Owner","Mr.","Bob","","Hodges","","129-555-0120","Work","bob2@adventure-works.com",1
+1170,"Sample Bike Store","Owner","Mr.","Barry","","Johnson","","858-555-0140","Cell","barry1@adventure-works.com",1
+1176,"Eleventh Bike Store","Owner","Mr.","Willis","","Johnson","","230-555-0164","Cell","willis1@adventure-works.com",1
+1198,"Fabrikam Inc., East","Owner","Mr.","John","","Kane","","1 (11) 500 555-0186","Cell","john21@adventure-works.com",1
+1214,"Sturdy Toys","Owner","Mr.","John","","Kelly","","330-555-0116","Work","john22@adventure-works.com",1
+1216,"Beneficial Exercises and Activities","Owner","Mr.","Robert","","Kelly","","510-555-0123","Work","robert7@adventure-works.com",1
+1218,"Fad Outlet","Owner","Mr.","Kevin","","Kennedy","","275-555-0179","Cell","kevin4@adventure-works.com",1
+1242,"Field Trip Store","Owner","Mr.","Anton","","Kirilov","","608-555-0162","Cell","anton0@adventure-works.com",1
+1248,"Glossy Bikes","Owner","Mr.","Reed","","Koch","","108-555-0171","Work","reed1@adventure-works.com",1
+1266,"Reasonable Bicycle Sales","Owner","Mr.","Mitch","","Kennedy","","996-555-0192","Work","mitch0@adventure-works.com",1
+1906,"Regional Cycle Shop","Owner","Mr.","John","","Tippett","","1 (11) 500 555-0132","Work","john28@adventure-works.com",1
+1944,"Quantity Discounts","Owner","Mr.","Sairaj","","Uddin","","767-555-0193","Work","sairaj1@adventure-works.com",1
+308,"Valley Bicycle Specialists","Purchasing Agent","Mr.","Jay","","Adams","","158-555-0142","Cell","jay1@adventure-works.com",1
+374,"Immense Manufacturing Company","Purchasing Agent","Mr.","Chris","","Ashton","","556-555-0145","Cell","chris3@adventure-works.com",1
+474,"Number 1 Supply","Purchasing Agent","Mr.","Matthias","","Berndt","","384-555-0169","Work","matthias1@adventure-works.com",1
+522,"Raw Materials Inc","Purchasing Agent","Mr.","Ted","","Bremer","","962-555-0166","Cell","ted0@adventure-works.com",1
+524,"Lots of Bikes Storehouse","Purchasing Agent","Mr.","Alan","","Brewer","","494-555-0134","Work","alan1@adventure-works.com",1
+540,"Metro Bike Works","Purchasing Agent","Mr.","Jo","","Brown","","689-555-0130","Work","jo2@adventure-works.com",1
+592,"Retail Mall","Purchasing Agent","Mr.","Ryan","","Calafato","","726-555-0155","Cell","ryan1@adventure-works.com",1
+624,"Budget Toy Store","Purchasing Agent","Mr.","Richard","","Carey","","1 (11) 500 555-0140","Cell","richard3@adventure-works.com",1
+696,"Extreme Riding Supplies","Purchasing Agent","Mr.","Anthony","","Chor","","429-555-0145","Cell","anthony0@adventure-works.com",1
+838,"Stock Parts and Supplies","Purchasing Agent","Mr.","Bart","","Duncan","","539-555-0121","Cell","bart0@adventure-works.com",1
+840,"Roadway Supplies","Purchasing Agent","Mr.","Maciej","","Dusza","","962-555-0144","Work","maciej1@adventure-works.com",1
+858,"Roadway Bike Emporium","Purchasing Agent","Mr.","John","","Emory","","691-555-0149","Work","john16@adventure-works.com",1
+984,"Riding Cycles","Purchasing Agent","Mr.","Jon","","Grande","","1 (11) 500 555-0114","Work","jon1@adventure-works.com",1
+1296,"Trailblazing Sports","Purchasing Agent","Mr.","Frank","","Campbell","","491-555-0132","Cell","frank4@adventure-works.com",1
+1322,"Rapid Bikes","Purchasing Agent","Mr.","Yale","","Li","","316-555-0138","Cell","yale0@adventure-works.com",1
+1338,"Sports Sales and Rental","Purchasing Agent","Mr.","Run","","Liu","","284-555-0185","Cell","run0@adventure-works.com",1
+1342,"Global Sports Outlet","Purchasing Agent","Mr.","Kok-Ho","","Loh","","1 (11) 500 555-0189","Work","kok-ho1@adventure-works.com",1
+1354,"Ideal Components","Purchasing Agent","Mr.","Jose","","Lugo","","1 (11) 500 555-0133","Work","jose4@adventure-works.com",1
+1404,"Rally Master Company Inc","Purchasing Agent","Mr.","Frank","","Mart¡nez","","171-555-0147","Cell","frank5@adventure-works.com",1
+1846,"Honest Repair Service","Purchasing Agent","Mr.","Brad","","Sutton","","688-555-0115","Cell","brad0@adventure-works.com",1
+404,"Margie's Travel","Purchasing Manager","Mr.","David","","Barber","","752-555-0115","Work","david9@adventure-works.com",1
+414,"Lubricant and Grease Suppliers","Purchasing Manager","Mr.","Adam","","Barr","","726-555-0191","Cell","adam0@adventure-works.com",1
+428,"Finer Cycle Shop","Purchasing Manager","Mr.","Shaun","","Beasley","","396-555-0187","Cell","shaun0@adventure-works.com",1
+484,"World Bike Discount Store","Purchasing Manager","Mr.","Jimmy","","Bischoff","","992-555-0111","Work","jimmy1@adventure-works.com",1
+636,"Bicycle Exporters","Purchasing Manager","Mr.","Fernando","","Caro","","1 (11) 500 555-0163","Work","fernando0@adventure-works.com",1
+678,"Nuts and Bolts Mfg.","Purchasing Manager","Mr.","Hao","","Chen","","117-555-0173","Work","hao1@adventure-works.com",1
+684,"This Area Sporting Goods","Purchasing Manager","Mr.","Yao-Qiang","","Cheng","","344-555-0181","Work","yao-qiang0@adventure-works.com",1
+750,"Custom Sales and Service","Purchasing Manager","Mr.","Bruno","","Costa Da Silva","","140-555-0143","Cell","bruno0@adventure-works.com",1
+920,"General Riding Supplies","Purchasing Manager","Mr.","Bob","","Gage","","962-555-0175","Cell","bob1@adventure-works.com",1
+926,"Unique Bikes","Purchasing Manager","Mr.","Jon","","Ganio","","672-555-0112","Cell","jon0@adventure-works.com",1
+944,"Number One Bike Co.","Purchasing Manager","Mr.","Leo","","Giakoumakis","","1 (11) 500 555-0169","Cell","leo0@adventure-works.com",1
+988,"Manufacturers Inc","Purchasing Manager","Mr.","Geoff","","Grisso","","351-555-0130","Cell","geoff0@adventure-works.com",1
+990,"Locks Company","Purchasing Manager","Mr.","Douglas","","Groncki","","385-555-0140","Work","douglas2@adventure-works.com",1
+992,"Latest Accessories Sales","Purchasing Manager","Mr.","Brian","","Groth","","461-555-0118","Work","brian5@adventure-works.com",1
+1008,"Precision Gears Inc.","Purchasing Manager","Mr.","Don","","Hall","","1 (11) 500 555-0182","Cell","don2@adventure-works.com",1
+1154,"Instant Cycle Store","Purchasing Manager","Mr.","Jay","","Jamison","","1 (11) 500 555-0113","Work","jay4@adventure-works.com",1
+1350,"Every Bike Shop","Purchasing Manager","Mr.","Gregory","","Weber","","116-555-0100","Cell","gregory2@adventure-works.com",1
+1368,"Reliable Retail Center","Purchasing Manager","Mr.","Robert","","Lyon","","666-555-0143","Cell","robert9@adventure-works.com",1
+1468,"Village Tours","Purchasing Manager","Mr.","Jan","","Miksovsky","","562-555-0119","Cell","jan1@adventure-works.com",1
+1476,"Low Price Cycles","Purchasing Manager","Mr.","Ben","","Miller","","207-555-0167","Cell","ben1@adventure-works.com",1
+1478,"Metropolitan Manufacturing","Purchasing Manager","Mr.","Dylan","","Miller","","140-555-0192","Cell","dylan1@adventure-works.com",1
+1486,"Rural Mountain Bike Mart","Purchasing Manager","Mr.","Scott","","Mitchell","","1 (11) 500 555-0183","Work","scott8@adventure-works.com",1
+1802,"Cycling Goods","Purchasing Manager","Mr.","Stefano","","Stefani","","1 (11) 500 555-0115","Work","stefano0@adventure-works.com",1
+1816,"Famous Bike Shop","Purchasing Manager","Mr.","Jim","","Stewart","","226-555-0110","Work","jim5@adventure-works.com",1
+292,"Next-Door Bike Store","Owner","Mr.","Gustavo","","Achong","","398-555-0132","Cell","gustavo0@adventure-works.com",2
+344,"Retail Sales and Service","Owner","Mr.","Michael","","Allen","","607-555-0193","Cell","michael10@adventure-works.com",2
+1032,"Brakes and Gears","Owner","Mr.","Roger","","Harui","","774-555-0133","Cell","roger0@adventure-works.com",2
+1070,"Fitness Sport Boutique","Owner","Mr.","Sidney","","Higa","","215-555-0197","Cell","sidney1@adventure-works.com",2
+1084,"Running and Cycling Gear","Owner","Mr.","Matthew","","Hink","","146-555-0176","Cell","matthew3@adventure-works.com",2
+1092,"Good Toys","Owner","Mr.","David","","Hodgson","","969-555-0117","Work","david16@adventure-works.com",2
+1104,"Outdoor Toy Store","Owner","Mr.","Michael","","Holm","","1 (11) 500 555-0123","Cell","michael17@adventure-works.com",2
+1110,"Local Sales and Rental","Owner","Mr.","Peter","","Houston","","632-555-0171","Cell","peter3@adventure-works.com",2
+1172,"Extras Sporting Goods","Owner","Mr.","Brian","","Johnson","","320-555-0134","Work","brian6@adventure-works.com",2
+1174,"Sure & Reliable Sporting Goods","Owner","Mr.","David","","Johnson","","476-555-0139","Cell","david18@adventure-works.com",2
+1182,"New and Used Bicycles","Owner","Mr.","Brannon","","Jones","","895-555-0160","Cell","brannon0@adventure-works.com",2
+1206,"Capable Sales and Service","Owner","Mr.","Sandeep","","Katyal","","928-555-0117","Cell","sandeep2@adventure-works.com",2
+1232,"Mail Market","Owner","Mr.","Joe","","Kim","","1 (11) 500 555-0144","Cell","joe1@adventure-works.com",2
+1250,"Next Door Cycles","Owner","Mr.","Jim","","Kennedy","","1 (11) 500 555-0199","Work","jim3@adventure-works.com",2
+1256,"Specialty Sports Store","Owner","Mr.","Scott","","Konersmann","","556-555-0192","Work","scott6@adventure-works.com",2
+1278,"Many Bikes Store","Owner","Mr.","Jeffrey","","Kurtz","","452-555-0179","Cell","jeffrey3@adventure-works.com",2
+1360,"Main Bicycle Services","Owner","Mr.","Nigel","","Westbury","","420-555-0100","Work","nigel0@adventure-works.com",2
+770,"Best Cycle Store","Purchasing Agent","Mr.","Ryan","","Danner","","1 (11) 500 555-0178","Cell","ryan3@adventure-works.com",2
+778,"One-Piece Handle Bars","Purchasing Agent","Mr.","Jose","","De Oliveira","","188-555-0152","Work","jose3@adventure-works.com",2
+790,"Preferred Bikes","Purchasing Agent","Mr.","Stefan","","Delmarco","","819-555-0186","Cell","stefan0@adventure-works.com",2
+796,"Rich Department Store","Purchasing Agent","Mr.","Bruno","","Deniut","","1 (11) 500 555-0118","Cell","bruno1@adventure-works.com",2
+800,"Stationary Bikes and Stands","Purchasing Agent","Mr.","Prashanth","","Desai","","138-555-0156","Cell","prashanth0@adventure-works.com",2
+810,"Rampart Amusement Company","Purchasing Agent","Mr.","Dick","","Dievendorff","","1 (11) 500 555-0193","Work","dick1@adventure-works.com",2
+966,"The New Bike Store","Purchasing Agent","Mr.","Mete","","Goktepe","","637-555-0120","Cell","mete0@adventure-works.com",2
+978,"Commercial Sporting Goods","Purchasing Agent","Mr.","Michael","","Graff","","132-555-0150","Cell","michael16@adventure-works.com",2
+1130,"Efficient Cycling","Purchasing Agent","Mr.","Ryan","","Ihrig","","809-555-0152","Work","ryan4@adventure-works.com",2
+1300,"Perfect Toys","Purchasing Agent","Mr.","Robertson","","Lee","","1 (11) 500 555-0165","Work","robertson0@adventure-works.com",2
+1304,"Authorized Bike Sales and Rental","Purchasing Agent","Mr.","Roger","","Lengel","","947-555-0143","Work","roger1@adventure-works.com",2
+1336,"Eastside Department Store","Purchasing Agent","Mr.","Kevin","","Liu","","926-555-0164","Work","kevin5@adventure-works.com",2
+1348,"Healthy Activity Store","Purchasing Agent","Mr.","Jeremy","","Los","","911-555-0165","Cell","jeremy0@adventure-works.com",2
+1838,"Valley Bicycle Distributors","Purchasing Agent","Mr.","Michael","","Sullivan","","323-555-0113","Work","michael24@adventure-works.com",2
+1958,"Ultimate Bicycle Company","Purchasing Agent","Mr.","Johnathan","","Van Eaton","","1 (11) 500 555-0156","Work","johnathan0@adventure-works.com",2
+506,"Third Bike Store","Purchasing Manager","Mr.","Randall","","Boseman","","383-555-0117","Work","randall0@adventure-works.com",2
+610,"Mountain Emporium","Purchasing Manager","Mr.","David","","Campbell","","756-555-0117","Work","david14@adventure-works.com",2
+676,"Inexpensive Parts Shop","Purchasing Manager","Mr.","Neil","","Charney","","1 (11) 500 555-0180","Cell","neil0@adventure-works.com",2
+748,"Major Equipment Co","Purchasing Manager","Mr.","Ryan","","Cornelsen","","1 (11) 500 555-0147","Work","ryan2@adventure-works.com",2
+754,"Distinctive Store","Purchasing Manager","Mr.","Jack","","Creasey","","539-555-0182","Work","jack2@adventure-works.com",2
+914,"Social Activities Club","Purchasing Manager","Mr.","John","","Ford","","596-555-0153","Work","john19@adventure-works.com",2
+918,"Expert Cycle Store","Purchasing Manager","Mr.","Don","","Funk","","1 (11) 500 555-0137","Cell","don1@adventure-works.com",2
+1028,"Progressive Sports","Purchasing Manager","Mr.","Keith","","Harris","","170-555-0127","Cell","keith0@adventure-works.com",2
+1114,"Community Department Stores","Purchasing Manager","Mr.","Joe","","Howard","","1 (11) 500 555-0187","Work","joe0@adventure-works.com",2
+1134,"Highway Bike Shop","Purchasing Manager","Mr.","Lucio","","Iallo","","199-555-0135","Work","lucio0@adventure-works.com",2
+1138,"Roving Sports","Purchasing Manager","Mr.","Erik","","Ismert","","116-555-0163","Work","erik0@adventure-works.com",2
+1396,"Racing Tours","Purchasing Manager","Mr.","Benjamin","","Martin","","1 (11) 500 555-0139","Cell","benjamin2@adventure-works.com",2
+1488,"City Cycling","Purchasing Manager","Mr.","Robert","","Mitosinka","","239-555-0198","Cell","robert10@adventure-works.com",2
+1806,"Black Bicycle Company","Purchasing Manager","Mr.","Derik","","Stenerson","","441-555-0144","Cell","derik0@adventure-works.com",2
+296,"Riders Company","Owner","Ms.","Kim","","Abercrombie","","334-555-0137","Work","kim2@adventure-works.com",0
+320,"Metropolitan Sales and Rental","Owner","Ms.","Kim","","Akers","","440-555-0166","Cell","kim3@adventure-works.com",2
+336,"Imported and Domestic Cycles","Owner","Ms.","Michelle","","Alexander","","115-555-0175","Work","michelle0@adventure-works.com",2
+438,"First-Rate Outlet","Owner","Ms.","Ann","","Beebe","","277-555-0169","Cell","ann0@adventure-works.com",0
+508,"Atypical Bike Company","Owner","Ms.","Stephanie","","Bourne","","1 (11) 500 555-0122","Cell","stephanie1@adventure-works.com",0
+532,"North Bike Company","Owner","Ms.","Deb","","Waldal","","748-555-0100","Work","deb0@adventure-works.com",0
+1030,"Underglaze and Finish Company","Owner","Ms.","Doris","","Hartwig","","703-555-0158","Work","doris1@adventure-works.com",0
+1088,"Fast Services","Owner","Ms.","Rose","","Hirsch","","1 (11) 500 555-0157","Work","rose0@adventure-works.com",1
+1094,"Little Bicycle Supply Shop","Owner","Ms.","Helge","","Hoeing","","850-555-0198","Cell","helge0@adventure-works.com",1
+1096,"Retail Toy Store","Owner","Ms.","Barbara","","Hoffman","","140-555-0188","Work","barbara5@adventure-works.com",0
+1178,"Enterprise Center","Owner","Ms.","Tamara","","Johnston","","1 (11) 500 555-0187","Work","tamara0@adventure-works.com",0
+1184,"Separate Parts Corporation","Owner","Ms.","Jean","","Jordan","","207-555-0129","Work","jean3@adventure-works.com",1
+1194,"Variety Bike Outlet","Owner","Ms.","Wendy","","Kahn","","685-555-0176","Cell","wendy1@adventure-works.com",2
+1200,"General Supplies","Owner","Ms.","Lori","","Kane","","765-555-0141","Cell","lori2@adventure-works.com",0
+1208,"Little Sports Center","Owner","Ms.","Bonnie","","Kearney","","1 (11) 500 555-0116","Cell","bonnie1@adventure-works.com",0
+1224,"Acceptable Sales & Service","Owner","Ms.","Elizabeth","","Keyser","","656-555-0173","Work","elizabeth2@adventure-works.com",0
+1230,"Fitness Supplies","Owner","Ms.","Karan","","Khanna","","390-555-0150","Cell","karan1@adventure-works.com",0
+1284,"Instruments and Parts Company","Owner","Ms.","Rebecca","","Laszlo","","1 (11) 500 555-0155","Work","rebecca2@adventure-works.com",0
+1290,"Frugal Bike Shop","Owner","Ms.","Elsa","","Leavitt","","482-555-0174","Cell","elsa0@adventure-works.com",0
+1896,"Tenth Bike Store","Owner","Ms.","Yuping","","Tian","","744-555-0123","Work","yuping0@adventure-works.com",2
+1900,"Fun Times Club","Owner","Ms.","Diane","","Tibbott","","847-555-0184","Work","diane5@adventure-works.com",0
+1902,"Chain and Chain Tool Distributions","Owner","Ms.","Danielle","","Tiedt","","916-555-0171","Work","danielle2@adventure-works.com",1
+1936,"Active Transport Inc.","Owner","Ms.","Lynn","","Tsoflias","","526-555-0155","Cell","lynn2@adventure-works.com",0
+376,"Extended Bike Sales","Purchasing Agent","Ms.","Teresa","","Atkinson","","129-555-0110","Work","teresa0@adventure-works.com",0
+462,"Sporting Goods and Bicycle Shop","Purchasing Agent","Ms.","Karen","","Berge","","813-555-0173","Cell","karen2@adventure-works.com",1
+564,"Unusual Bicycle Company","Purchasing Agent","Ms.","Nancy","","Buchanan","","1 (11) 500 555-0183","Work","nancy1@adventure-works.com",0
+788,"Paint Supply","Purchasing Agent","Ms.","Aidan","","Delaney","","358-555-0188","Cell","aidan0@adventure-works.com",0
+804,"Downtown Hotel","Purchasing Agent","Ms.","Brenda","","Diaz","","147-555-0192","Cell","brenda2@adventure-works.com",0
+806,"Certified Sports Supply","Purchasing Agent","Ms.","Gabriele","","Dickmann","","835-555-0116","Work","gabriele0@adventure-works.com",0
+808,"Registered Cycle Store","Purchasing Agent","Ms.","Holly","","Dickson","","1 (11) 500 555-0197","Cell","holly0@adventure-works.com",0
+822,"Racing Bike Outlet","Purchasing Agent","Ms.","Patricia","","Doyle","","899-555-0134","Cell","patricia0@adventure-works.com",0
+842,"Sensational Discount Store","Purchasing Agent","Ms.","Shelley","","Dyck","","716-555-0123","Cell","shelley2@adventure-works.com",0
+860,"Sleek Bikes","Purchasing Agent","Ms.","Gail","","Erickson","","834-555-0132","Cell","gail1@adventure-works.com",1
+880,"The Bike Shop","Purchasing Agent","Ms.","Carolyn","","Farino","","957-555-0125","Work","carolyn0@adventure-works.com",2
+884,"Qualified Sales and Repair Services","Purchasing Agent","Ms.","Hanying","","Feng","","475-555-0188","Work","hanying1@adventure-works.com",0
+892,"Coho Sports","Purchasing Agent","Ms.","Kathie","","Flood","","627-555-0192","Work","kathie1@adventure-works.com",0
+1016,"Central Discount Store","Purchasing Agent","Ms.","Carina","","Stanev","","597-555-0100","Work","carina0@adventure-works.com",0
+1122,"Tubeless Tire Company","Purchasing Agent","Ms.","Arlene","","Huff","","1 (11) 500 555-0146","Cell","arlene0@adventure-works.com",1
+1302,"Exhibition Showroom","Purchasing Agent","Ms.","Jolie","","Lenehan","","1 (11) 500 555-0126","Cell","jolie0@adventure-works.com",0
+1312,"National Manufacturing","Purchasing Agent","Ms.","Linda","","Leste","","493-555-0134","Cell","linda7@adventure-works.com",1
+1316,"Wheelsets Storehouse","Purchasing Agent","Ms.","Judy","","Lew","","195-555-0196","Cell","judy0@adventure-works.com",1
+1324,"Metro Sports Equipment","Purchasing Agent","Ms.","Yan","","Li","","1 (11) 500 555-0167","Work","yan0@adventure-works.com",0
+1326,"Nearby Sporting Goods","Purchasing Agent","Ms.","Yuhong","","Li","","1 (11) 500 555-0176","Cell","yuhong1@adventure-works.com",0
+1422,"Fashionable Department Stores","Purchasing Agent","Ms.","Katie","","McAskill-White","","618-555-0193","Cell","katie1@adventure-works.com",2
+1428,"Spoke Manufacturers","Purchasing Agent","Ms.","Nikki","","McCormick","","600-555-0162","Work","nikki0@adventure-works.com",1
+1856,"Grown-up Bike Store","Purchasing Agent","Ms.","Shelly","","Szymanski","","238-555-0163","Work","shelly0@adventure-works.com",1
+1858,"Bicycle Lines Distributors","Purchasing Agent","Ms.","Julie","","Taft-Rider","","145-555-0194","Work","julie1@adventure-works.com",0
+1962,"Metropolitan Equipment","Purchasing Agent","Ms.","Mandy","","Vance","","1 (11) 500 555-0175","Cell","mandy0@adventure-works.com",2
+402,"Impromptu Trips","Purchasing Manager","Ms.","Angela","","Barbariol","","134-555-0182","Cell","angela1@adventure-works.com",0
+502,"Eighty Toy Stores","Purchasing Manager","Ms.","Corinna","","Bolender","","332-555-0142","Work","corinna0@adventure-works.com",0
+702,"Local Hardware Factory","Purchasing Manager","Ms.","Alice","","Clark","","221-555-0141","Work","alice1@adventure-works.com",1
+708,"South Bike Company","Purchasing Manager","Ms.","Jane","","Clayton","","206-555-0195","Cell","jane1@adventure-works.com",0
+734,"Superlative Bikes","Purchasing Manager","Ms.","Stephanie","","Conroy","","752-555-0187","Cell","stephanie2@adventure-works.com",0
+744,"First Department Stores","Purchasing Manager","Ms.","Eva","","Corets","","542-555-0164","Cell","eva0@adventure-works.com",1
+788,"Paint Supply","Purchasing Manager","Ms.","Wendy","","Wheeler","","977-555-0100","Work","wendy2@adventure-works.com",0
+896,"Quick Delivery Service","Purchasing Manager","Ms.","Kelly","","Focht","","272-555-0123","Work","kelly0@adventure-works.com",1
+1022,"Sharp Bikes","Purchasing Manager","Ms.","Katherine","","Harding","","926-555-0159","Cell","katherine0@adventure-works.com",2
+1132,"General Industries","Purchasing Manager","Ms.","Beth","","Inghram","","718-555-0152","Work","beth0@adventure-works.com",1
+1150,"Certified Bicycle Supply","Purchasing Manager","Ms.","Mary","","Alexander","","344-555-0133","Work","mary7@adventure-works.com",0
+1158,"Paints and Solvents Company","Purchasing Manager","Ms.","Joyce","","Jarvis","","458-555-0179","Work","joyce0@adventure-works.com",0
+1370,"Liquidation Sales","Purchasing Manager","Ms.","Jenny","","Lysaker","","1 (11) 500 555-0196","Cell","jenny0@adventure-works.com",0
+1384,"Finer Sporting Goods","Purchasing Manager","Ms.","Parul","","Manek","","1 (11) 500 555-0146","Work","parul0@adventure-works.com",0
+1398,"Oils and Fluids Warehouse","Purchasing Manager","Ms.","Linda","","Martin","","1 (11) 500 555-0137","Work","linda8@adventure-works.com",0
+1400,"Finished Parts Shop","Purchasing Manager","Ms.","Mindy","","Martin","","1 (11) 500 555-0177","Cell","mindy1@adventure-works.com",1
+1436,"Practical Bike Supply Company","Purchasing Manager","Ms.","Yvonne","","McKay","","623-555-0144","Work","yvonne1@adventure-works.com",0
+1438,"Some Discount Store","Purchasing Manager","Ms.","Nkenge","","McLin","","158-555-0123","Cell","nkenge0@adventure-works.com",1
+1444,"Remote Bicycle Specialists","Purchasing Manager","Ms.","Raquel","","Mello","","723-555-0124","Cell","raquel0@adventure-works.com",1
+1452,"Preferable Bikes","Purchasing Manager","Ms.","Susan","","Metters","","1 (11) 500 555-0125","Cell","susan4@adventure-works.com",0
+1460,"Cycles and Scooters","Purchasing Manager","Ms.","Deanna","","Meyer","","249-555-0124","Work","deanna1@adventure-works.com",0
+1484,"Essential Bike Works","Purchasing Manager","Ms.","Linda","","Mitchell","","1 (11) 500 555-0182","Cell","linda9@adventure-works.com",0
+1800,"Hiatus Bike Tours","Purchasing Manager","Ms.","Heidi","","Steen","","1 (11) 500 555-0128","Work","heidi0@adventure-works.com",2
+298,"The Bike Mechanics","Owner","Sr.","Humberto","","Acevedo","","599-555-0127","Cell","humberto0@adventure-works.com",2
+300,"Nationwide Supply","Owner","Sra.","Pilar","","Ackerman","","1 (11) 500 555-0132","Cell","pilar1@adventure-works.com",0
+566,"Courteous Bicycle Specialists","Owner","Sra.","Janaina Barreiro Gambaro","","Bueno","","476-555-0184","Cell","janainabarreirogambaro0@adventure-works.com",1
+602,"Uttermost Bike Shop","Owner","Sr.","Gustavo","","Camargo","","1 (11) 500 555-0118","Cell","gustavo1@adventure-works.com",0
+988,"Manufacturers Inc","Owner","","Rohinton","","Wadia","","155-555-0100","Cell","rohinton0@adventure-works.com",1
+1020,"Bicycle Warehouse Inc.","Owner","","Annik","","Stahl","","644-555-0100","Cell","annik1@adventure-works.com",0
+1046,"Better Bike Shop","Owner","","James","","Hendergart","","967-555-0129","Work","james9@adventure-works.com",0
+476,"Industrial Supplies","Purchasing Agent","","John","","Berry","","471-555-0181","Cell","john11@adventure-works.com",0
+776,"Principal Bike Company","Purchasing Agent","Sr.","Alvaro","","De Matos Miranda Filho","","551-555-0155","Work","alvaro0@adventure-works.com",1
+836,"Active Cycling","Purchasing Agent","Sr.","Adrian","","Dumitrascu","","362-555-0121","Work","adrian0@adventure-works.com",0
+868,"Central Bicycle Specialists","Purchasing Agent","Sra.","Janeth","","Esteves","","1 (11) 500 555-0136","Work","janeth1@adventure-works.com",1
+1334,"Chic Department Stores","Purchasing Agent","","Jinghao","","Liu","","928-555-0116","Cell","jinghao1@adventure-works.com",2
+470,"Unicycles, Bicycles, and Tricycles","Purchasing Manager","","Andreas","","Berglund","","795-555-0116","Work","andreas1@adventure-works.com",0
+504,"Economy Bikes Company","Purchasing Manager","Sr.","Luis","","Bonifaz","","688-555-0113","Work","luis0@adventure-works.com",2
+418,"Transportation Options","Owner","","Gytis","M","Barzdukas","","257-555-0119","Work","gytis0@adventure-works.com",0
+1306,"Two-Seater Bikes","Purchasing Agent","","A.","Francesca","Leonetti","","645-555-0193","Cell","a0@adventure-works.com",2
+424,"Bikes Anyone?","Purchasing Manager","Sr.","Ciro","J.","Bauer","","115-555-0170","Work","ciro0@adventure-works.com",0
+334,"Global Plaza","Owner","Mr.","J. Phillip","L.","Alexander","","845-555-0187","Cell","jphillip0@adventure-works.com",1
+398,"Grand Bicycle Stores","Owner","Mr.","Wayne","N.","Banack","","640-555-0189","Cell","wayne0@adventure-works.com",2
+440,"Juvenile Sports Equipment","Owner","Mr.","Shane","J.","Belli","","843-555-0175","Cell","shane1@adventure-works.com",1
+648,"Corner Bicycle Supply","Owner","Mr.","Joseph","N.","Castellucio","","180-555-0114","Cell","joseph1@adventure-works.com",2
+670,"Fitness Cycling","Owner","Mr.","Forrest","J.","Chandler","","448-555-0179","Work","forrest0@adventure-works.com",1
+672,"Good Bike Shop","Owner","Mr.","Lee","J.","Chapla","","223-555-0184","Cell","lee0@adventure-works.com",2
+1002,"Distant Inn","Owner","Mr.","Keith","N.","Virden","","914-555-0100","Work","keith1@adventure-works.com",1
+1168,"Optimal Bikes","Owner","Mr.","Greg","M.","Johnson","","523-555-0170","Work","greg3@adventure-works.com",1
+1180,"Purple Bicycle Company","Owner","Mr.","Robert","E.","Jones","","595-555-0131","Cell","robert6@adventure-works.com",1
+1190,"Mechanical Brake Manufacturers","Owner","Mr.","Scott","B.","Kaffer","","1 (11) 500 555-0179","Cell","scott5@adventure-works.com",2
+1212,"Road Way Sales and Rental","Owner","Mr.","Victor","A.","Kelley","","112-555-0195","Work","victor0@adventure-works.com",2
+1252,"Up-To-Date Sports","Owner","Mr.","Kirk","T","King","","979-555-0163","Cell","kirk2@adventure-works.com",2
+1872,"Budget Bike Company","Owner","Mr.","Sameer","A.","Tejani","","238-555-0165","Cell","sameer1@adventure-works.com",1
+1884,"Retirement Activities Association","Owner","Mr.","James","R.","Thomas","","699-555-0184","Cell","james14@adventure-works.com",2
+1920,"Timely Shipping Service","Owner","Mr.","James","R.","Tran","","740-555-0159","Work","james15@adventure-works.com",1
+1930,"Reliable Brake Systems","Owner","Mr.","David","F.","Trolen","","793-555-0146","Cell","david26@adventure-works.com",2
+1956,"Wire Baskets and Parts","Owner","Mr.","Jessie","E.","Valerio","","103-555-0179","Cell","jessie0@adventure-works.com",2
+1978,"Exercise Center","Owner","Mr.","Gary","T","Vargas","","112-555-0176","Work","gary6@adventure-works.com",2
+1980,"Great Bicycle Supply","Owner","Mr.","Ranjit","Rudra","Varkey Chudukatil","","810-555-0160","Cell","ranjit1@adventure-works.com",1
+330,"Major Sport Suppliers","Purchasing Agent","Mr.","Paul","L.","Alcorn","","331-555-0162","Cell","paul2@adventure-works.com",1
+338,"Systematic Sales","Purchasing Agent","Mr.","Sean","P.","Jacobson","","555-555-0162","Work","sean2@adventure-works.com",2
+348,"Bold Bike Accessories","Purchasing Agent","Mr.","Oscar","L.","Alpuerto","","855-555-0174","Cell","oscar0@adventure-works.com",1
+354,"Acclaimed Bicycle Company","Purchasing Agent","Mr.","Emilio","R.","Alvaro","","178-555-0129","Work","emilio0@adventure-works.com",1
+472,"Safe Cycles Shop","Purchasing Agent","Mr.","Robert","M.","Bernacchi","","449-555-0176","Work","robert4@adventure-works.com",1
+612,"Metro Cycle Shop","Purchasing Agent","Mr.","Henry","L.","Campen","","635-555-0126","Work","henry0@adventure-works.com",2
+698,"Bike Rims Company","Purchasing Agent","Mr.","Charles","M.","Christensen","","334-555-0146","Work","charles1@adventure-works.com",2
+780,"Finer Riding Supplies","Purchasing Agent","Mr.","Jacob","N.","Dean","","767-555-0151","Work","jacob0@adventure-works.com",1
+792,"Rally Day Mall","Purchasing Agent","Mr.","Shawn","R.","Demicell","","175-555-0198","Cell","shawn0@adventure-works.com",2
+826,"Bike Goods","Purchasing Agent","Mr.","Gary","T.","Drury","","698-555-0183","Work","gary2@adventure-works.com",1
+862,"Retail Sporting Equipment","Purchasing Agent","Mr.","Mark","B","Erickson","","962-555-0112","Cell","mark2@adventure-works.com",2
+982,"Steel Inc.","Purchasing Agent","Mr.","Lowell","J.","Graham","","1 (11) 500 555-0168","Work","lowell0@adventure-works.com",1
+1124,"Tires and Tubes","Purchasing Agent","Mr.","Matthew","M.","Hunter","","482-555-0188","Cell","matthew4@adventure-works.com",1
+1128,"Retail Sporting Goods","Purchasing Agent","Mr.","Lawrence","E.","Hurkett","","129-555-0185","Cell","lawrence0@adventure-works.com",1
+1292,"Family Entertainment Center","Purchasing Agent","Mr.","Michael","J.","Lee","","396-555-0139","Work","michael18@adventure-works.com",1
+1332,"Catalog Store","Purchasing Agent","Mr.","David","J.","Liu","","440-555-0132","Work","david20@adventure-works.com",1
+1864,"Plastic Parts Company","Purchasing Agent","Mr.","Mike","M.","Taylor","","204-555-0189","Cell","mike6@adventure-works.com",2
+1870,"Big Cycle Mall","Purchasing Agent","Mr.","Chad","J.","Tedford","","588-555-0128","Cell","chad1@adventure-works.com",1
+368,"Brightwork Company","Purchasing Manager","Mr.","Tom","H","Johnston","","883-555-0177","Cell","tom1@adventure-works.com",1
+388,"Remarkable Bike Store","Purchasing Manager","Mr.","Cory","K.","Booth","","121-555-0157","Work","cory0@adventure-works.com",1
+400,"Exertion Activities Club","Purchasing Manager","Mr.","Darrell","M.","Banks","","816-555-0118","Work","darrell0@adventure-works.com",2
+500,"Toy Manufacturing Inc","Purchasing Manager","Mr.","Michael","L.","Bohling","","838-555-0147","Cell","michael12@adventure-works.com",1
+514,"Widget Bicycle Specialists","Purchasing Manager","Mr.","David","M.","Bradley","","954-555-0145","Work","david11@adventure-works.com",1
+532,"North Bike Company","Purchasing Manager","Mr.","David","J.","Brink","","1 (11) 500 555-0184","Cell","david12@adventure-works.com",1
+544,"Painters Bicycle Specialists","Purchasing Manager","Mr.","Kevin","F.","Browne","","496-555-0150","Work","kevin3@adventure-works.com",1
+588,"Channel Outlet","Purchasing Manager","Mr.","Richard","A.","Byham","","1 (11) 500 555-0138","Work","richard2@adventure-works.com",2
+634,"Riverside Company","Purchasing Manager","Mr.","Steve","J.","Carnes","","268-555-0184","Work","steve1@adventure-works.com",2
+680,"Principal Bicycle Supply","Purchasing Manager","Mr.","John","Y.","Chen","","514-555-0128","Cell","john13@adventure-works.com",1
+706,"Rental Gallery","Purchasing Manager","Mr.","James","J.","Clark","","1 (11) 500 555-0176","Work","james4@adventure-works.com",2
+726,"Westside Cycle Store","Purchasing Manager","Mr.","Scott","A.","Colvin","","119-555-0144","Work","scott1@adventure-works.com",2
+916,"Blue Bicycle Company","Purchasing Manager","Mr.","Paul","J.","Fulton","","492-555-0146","Cell","paul3@adventure-works.com",2
+946,"Racing Supply Distributors","Purchasing Manager","Mr.","Cornett","L.","Gibbens","","1 (11) 500 555-0112","Cell","cornett0@adventure-works.com",1
+948,"Standard Bikes","Purchasing Manager","Mr.","Frances","J.","Giglio","","692-555-0136","Cell","frances1@adventure-works.com",2
+1020,"Bicycle Warehouse Inc.","Purchasing Manager","Mr.","William","J.","Hapke","","1 (11) 500 555-0167","Work","william2@adventure-works.com",2
+1120,"Rural Sales and Service","Purchasing Manager","Mr.","Joshua","J.","Huff","","190-555-0186","Cell","joshua0@adventure-works.com",1
+1144,"Retail Discount Store","Purchasing Manager","Mr.","Bronson","R.","Jacobs","","697-555-0131","Work","bronson0@adventure-works.com",2
+1378,"Selected Distributors","Purchasing Manager","Mr.","Patrick","J.","Magenheimer","","774-555-0177","Work","patrick3@adventure-works.com",2
+1466,"Seats and Saddles Company","Purchasing Manager","Mr.","Thomas","R.","Michaels","","162-555-0174","Cell","thomas2@adventure-works.com",2
+1820,"Strong Metal Manufacturing","Purchasing Manager","Mr.","Louis","B.","Stotka","","601-555-0151","Work","louis0@adventure-works.com",1
+316,"Fun Toys and Bikes","Owner","Mr.","Robert","E.","Ahlering","","678-555-0175","Cell","robert1@adventure-works.com",0
+332,"Family's Favorite Bike Shop","Owner","Mr.","Gregory","F.","Alderson","","968-555-0153","Work","gregory0@adventure-works.com",0
+342,"Mountain Toy Store","Owner","Mr.","Marvin","N.","Allen","","447-555-0110","Cell","marvin0@adventure-works.com",0
+382,"Work and Play Association","Owner","Mr.","Stephen","M.","Ayers","","818-555-0171","Work","stephen1@adventure-works.com",0
+384,"Seaside Bike Works","Owner","Mr.","Phillip","M.","Bacalzo","","1 (11) 500 555-0187","Work","phillip0@adventure-works.com",0
+396,"Flawless Bike Shop","Owner","Mr.","Alberto","F.","Baltazar","","780-555-0114","Work","alberto0@adventure-works.com",0
+406,"Kickstand Sellers","Owner","Mr.","Robert","L.","Barker","","241-555-0112","Cell","robert3@adventure-works.com",0
+430,"Center Cycle Shop","Owner","Mr.","John","A.","Beaver","","521-555-0195","Work","john8@adventure-works.com",0
+436,"Second Bike Shop","Owner","Mr.","Benjamin","J.","Becker","","1 (11) 500 555-0140","Cell","benjamin1@adventure-works.com",0
+446,"Rodeway Bike Store","Owner","Mr.","John","M.","Bennetts","","1 (11) 500 555-0163","Work","john9@adventure-works.com",0
+492,"Coalition Bike Company","Owner","Mr.","Donald","L.","Blanton","","357-555-0161","Cell","donald0@adventure-works.com",0
+516,"Initial Bike Company","Owner","Mr.","Cornelius","L.","Brandon","","229-555-0114","Work","cornelius0@adventure-works.com",0
+548,"Eastside Sporting Goods","Owner","Mr.","Dave","P.","Browning","","428-555-0162","Work","dave0@adventure-works.com",0
+568,"Hobby Store","Owner","Mr.","Edward","T.","Buensalido","","315-555-0166","Cell","edward0@adventure-works.com",0
+668,"General Cycle Storehouse","Owner","Mr.","Pat","A.","Chambers","","127-555-0124","Cell","pat1@adventure-works.com",0
+786,"Outdoor Equipment Store","Owner","Mr.","Sam","L.","Wheeler","","477-555-0100","Cell","sam0@adventure-works.com",0
+930,"Associated Bikes","Owner","Mr.","Dominic","P.","Gash","","192-555-0173","Work","dominic0@adventure-works.com",0
+934,"A Bike Store","Owner","Mr.","Orlando","N.","Gee","","245-555-0173","Cell","orlando0@adventure-works.com",0
+1008,"Precision Gears Inc.","Owner","Mr.","Shane","P.","Vigil","","811-555-0100","Work","shane3@adventure-works.com",0
+1054,"Eastside Cycle Shop","Owner","Mr.","Jeff","D.","Henshaw","","1 (11) 500 555-0118","Cell","jeff2@adventure-works.com",0
+1068,"Superior Hardware Distributors","Owner","Mr.","Ronald","K.","Heymsfield","","784-555-0120","Cell","ronald1@adventure-works.com",0
+1078,"Eastside Parts Shop","Owner","Mr.","Andrew","R.","Hill","","194-555-0149","Cell","andrew4@adventure-works.com",0
+1106,"The Commissary","Owner","Mr.","Eddie","M.","Holmes","","570-555-0199","Cell","eddie0@adventure-works.com",0
+1236,"Twelfth Bike Store","Owner","Mr.","Shane","S.","Kim","","155-555-0149","Cell","shane2@adventure-works.com",0
+1246,"Finer Parts Shop","Owner","Mr.","Andrew","P.","Kobylinski","","129-555-0185","Work","andrew5@adventure-works.com",0
+1264,"Refined Department Stores","Owner","Mr.","James","D.","Kramer","","814-555-0130","Work","james10@adventure-works.com",0
+1268,"Out-of-the-Way Hotels","Owner","Mr.","James","J.","Krow","","265-555-0190","Work","james11@adventure-works.com",0
+1288,"Gear-Shift Bikes Limited","Owner","Mr.","David","O","Lawrence","","653-555-0159","Work","david19@adventure-works.com",0
+1354,"Ideal Components","Owner","Mr.","Ole","A.","Weldon","","974-555-0100","Work","ole0@adventure-works.com",0
+1886,"Trendy Department Stores","Owner","Mr.","Donald","M.","Thompson","","273-555-0111","Work","donald1@adventure-works.com",0
+1890,"Travel Sports","Owner","Mr.","Daniel","P.","Thompson","","247-555-0197","Cell","daniel2@adventure-works.com",0
+1918,"Simple Bike Parts","Owner","Mr.","Abe","M.","Tramel","","317-555-0163","Work","abe0@adventure-works.com",0
+1928,"Quick Parts and Service","Owner","Mr.","Billy","J.","Trent","","882-555-0115","Cell","billy0@adventure-works.com",0
+1932,"Thrifty Parts and Sales","Owner","Mr.","Michael John","R.","Troyer","","308-555-0175","Cell","michaeljohn0@adventure-works.com",0
+1954,"Recreation Supplies","Owner","Mr.","H.","Brian","Valentine","","162-555-0138","Work","h0@adventure-works.com",0
+1984,"Nearby Cycle Shop","Owner","Mr.","Raja","D.","Venugopal","","1 (11) 500 555-0195","Work","raja0@adventure-works.com",0
+1992,"Totes & Baskets Company","Owner","Mr.","Robert","R.","Vessa","","560-555-0171","Cell","robert13@adventure-works.com",0
+310,"New Bikes Company","Purchasing Agent","Mr.","Ronald","L.","Adina","","453-555-0165","Cell","ronald0@adventure-works.com",0
+312,"Vinyl and Plastic Goods Corporation","Purchasing Agent","Mr.","Samuel","N.","Agcaoili","","554-555-0110","Work","samuel0@adventure-works.com",0
+328,"Purchase Mart","Purchasing Agent","Mr.","Milton","J.","Albury","","492-555-0189","Cell","milton0@adventure-works.com",0
+346,"Designated Distributors","Purchasing Agent","Mr.","Cecil","J.","Allison","","699-555-0155","Cell","cecil0@adventure-works.com",0
+356,"Serious Cycles","Purchasing Agent","Mr.","Maxwell","J.","Amland","","614-555-0134","Work","maxwell0@adventure-works.com",0
+420,"Capital Riding Supplies","Purchasing Agent","Mr.","David","M.","Bartness","","1 (11) 500 555-0112","Work","david10@adventure-works.com",0
+480,"Front Runner Bikes","Purchasing Agent","Mr.","Chris","N.","Bidelman","","609-555-0186","Cell","chris4@adventure-works.com",0
+534,"Prosperous Tours","Purchasing Agent","Mr.","John","R.","Brooks","","1 (11) 500 555-0179","Cell","john12@adventure-works.com",0
+562,"Custom Accessories Company","Purchasing Agent","Mr.","Dirk","J.","Bruno","","817-555-0114","Work","dirk0@adventure-works.com",0
+582,"Excellent Bikes","Purchasing Agent","Mr.","Stephen","R.","Burton","","1 (11) 500 555-0129","Cell","stephen2@adventure-works.com",0
+616,"Tread Industries","Purchasing Agent","Mr.","Joseph","J.","Cantoni","","965-555-0112","Work","joseph0@adventure-works.com",0
+626,"Camping and Sports Store","Purchasing Agent","Mr.","Carlton","M.","Carlisle","","193-555-0116","Cell","carlton0@adventure-works.com",0
+652,"Westside Plaza","Purchasing Agent","Mr.","Raul","E.","Casts","","362-555-0162","Cell","raul0@adventure-works.com",0
+656,"Outstanding Cycles","Purchasing Agent","Mr.","Matthew","J.","Cavallari","","695-555-0161","Work","matthew1@adventure-works.com",0
+692,"Grand Discount Store","Purchasing Agent","Mr.","Mike","M.","Choi","","727-555-0190","Work","mike1@adventure-works.com",0
+766,"Extreme Toy Store","Purchasing Agent","Mr.","Jose","M.","Curry","","937-555-0136","Work","jose2@adventure-works.com",0
+782,"Neighborhood Store","Purchasing Agent","Mr.","Alexander","J.","Deborde","","394-555-0176","Cell","alexander1@adventure-works.com",0
+824,"Utilitarian Sporting Goods","Purchasing Agent","Mr.","Gerald","M.","Drury","","169-555-0178","Work","gerald0@adventure-works.com",0
+956,"Finer Sales and Service","Purchasing Agent","Mr.","David","L.","Givens","","605-555-0111","Work","david15@adventure-works.com",0
+962,"Spa and Exercise Outfitters","Purchasing Agent","Mr.","James","R.","Glynn","","1 (11) 500 555-0191","Cell","james6@adventure-works.com",0
+970,"Primary Bike Distributors","Purchasing Agent","Mr.","Brian","R","Goldstein","","495-555-0161","Cell","brian4@adventure-works.com",0
+1004,"Finer Mart","Purchasing Agent","Mr.","Eric","M.","Vincenzi","","330-555-0100","Work","eric10@adventure-works.com",0
+1314,"Volume Bike Sellers","Purchasing Agent","Mr.","Steven","B.","Levy","","1 (11) 500 555-0119","Cell","steven2@adventure-works.com",0
+1320,"Security Racks and Locks Wholesalers","Purchasing Agent","Mr.","George","Z.","Li","","699-555-0183","Cell","george3@adventure-works.com",0
+1328,"Front Sporting Goods","Purchasing Agent","Mr.","Joseph","M.","Lique","","119-555-0195","Work","joseph2@adventure-works.com",0
+1330,"Elite Bikes","Purchasing Agent","Mr.","Paulo","H.","Lisboa","","380-555-0116","Cell","paulo0@adventure-works.com",0
+1340,"Cycle Merchants","Purchasing Agent","Mr.","Todd","R.","Logan","","783-555-0110","Work","todd0@adventure-works.com",0
+1344,"Exotic Bikes","Purchasing Agent","Mr.","John","K.","Long","","415-555-0147","Cell","john23@adventure-works.com",0
+1360,"Main Bicycle Services","Purchasing Agent","Mr.","Sean","J.","Lunt","","183-555-0111","Cell","sean4@adventure-works.com",0
+1416,"Pedal Systems Company","Purchasing Agent","Mr.","John","J.","McClane","","455-555-0144","Cell","john24@adventure-works.com",0
+1832,"Downhill Bicycle Specialists","Purchasing Agent","Mr.","Gary","J.","Suess","","1 (11) 500 555-0199","Work","gary5@adventure-works.com",0
+1850,"Wheel Gallery","Purchasing Agent","Mr.","Abraham","L.","Swearengin","","926-555-0136","Work","abraham0@adventure-works.com",0
+1860,"Sparkling Paint and Finishes","Purchasing Agent","Mr.","Clarence","R.","Tatman","","787-555-0128","Cell","clarence0@adventure-works.com",0
+1862,"Racing Association","Purchasing Agent","Mr.","Damon","A.","Taylor","","825-555-0187","Cell","damon0@adventure-works.com",0
+1868,"Executive Gift Store","Purchasing Agent","Mr.","Jeff","E.","Teper","","214-555-0170","Work","jeff6@adventure-works.com",0
+378,"Pedaling Components","Purchasing Manager","Mr.","John","P.","Ault","","1 (11) 500 555-0139","Work","john7@adventure-works.com",0
+380,"Workout Emporium","Purchasing Manager","Mr.","Robert","A.","Avalos","","665-555-0198","Work","robert2@adventure-works.com",0
+452,"Field Trip Inc","Purchasing Manager","Mr.","Payton","P.","Benson","","528-555-0183","Cell","payton0@adventure-works.com",0
+456,"Uncompromising Quality Co","Purchasing Manager","Mr.","Scot","A.","Bent","","1 (11) 500 555-0177","Cell","scot0@adventure-works.com",0
+496,"Grease and Oil Products Company","Purchasing Manager","Mr.","Michael","Greg","Blythe","","126-555-0172","Cell","michael11@adventure-works.com",0
+528,"Parcel Express Delivery Service","Purchasing Manager","Mr.","Christopher","M.","Bright","","162-555-0166","Cell","christopher2@adventure-works.com",0
+552,"Requisite Part Supply","Purchasing Manager","Mr.","Eric","J.","Brumfield","","644-555-0114","Work","eric3@adventure-works.com",0
+586,"Alternative Vehicles","Purchasing Manager","Mr.","Jared","L.","Bustamante","","164-555-0147","Work","jared0@adventure-works.com",0
+620,"Tandem Bicycle Store","Purchasing Manager","Mr.","Jian","Shuo","Wang","","441-555-0100","Work","jian0@adventure-works.com",0
+718,"First Supplies","Purchasing Manager","Mr.","Eric","E.","Coleman","","1 (11) 500 555-0140","Work","eric4@adventure-works.com",0
+722,"Pedals Warehouse","Purchasing Manager","Mr.","Takiko","J.","Collins","","987-555-0126","Work","takiko0@adventure-works.com",0
+724,"Two Wheels Cycle Store","Purchasing Manager","Mr.","John","L.","Colon","","397-555-0144","Work","john14@adventure-works.com",0
+732,"Urban Sports Emporium","Purchasing Manager","Mr.","William","J.","Conner","","383-555-0111","Work","william1@adventure-works.com",0
+740,"Touring Services","Purchasing Manager","Mr.","Patrick","M.","Cook","","884-555-0193","Work","patrick2@adventure-works.com",0
+746,"Grand Sport Boutique","Purchasing Manager","Mr.","Marlin","M.","Coriell","","941-555-0155","Cell","marlin0@adventure-works.com",0
+898,"Tough and Reliable Parts","Purchasing Manager","Mr.","Jeffrey","L.","Ford","","395-555-0128","Work","jeffrey1@adventure-works.com",0
+910,"Quitting Business Distributors","Purchasing Manager","Mr.","Liam","J.","Friedland","","991-555-0148","Cell","liam0@adventure-works.com",0
+1000,"Games and Sport Supply Company","Purchasing Manager","Mr.","Matthew","M.","Hagemann","","552-555-0141","Cell","matthew2@adventure-works.com",0
+1012,"Stylish Department Stores","Purchasing Manager","Mr.","James","R.","Hamilton","","418-555-0115","Cell","james7@adventure-works.com",0
+1112,"Economy Center","Purchasing Manager","Mr.","Curtis","P.","Howard","","555-555-0162","Cell","curtis0@adventure-works.com",0
+1118,"Synthetic Materials Manufacturing","Purchasing Manager","Mr.","George","M.","Huckaby","","851-555-0127","Work","george1@adventure-works.com",0
+1136,"Rental Bikes","Purchasing Manager","Mr.","Richard","L.","Irwin","","367-555-0124","Cell","richard4@adventure-works.com",0
+1146,"Vale Riding Supplies","Purchasing Manager","Mr.","Eric","A.","Jacobsen","","703-555-0120","Cell","eric5@adventure-works.com",0
+1162,"Bikes for Kids and Adults","Purchasing Manager","Mr.","Stephen","Yuan","Jiang","","910-555-0116","Cell","stephen3@adventure-works.com",0
+1164,"Consolidated Sales","Purchasing Manager","Mr.","Samuel","A.","Johnson","","762-555-0110","Cell","samuel1@adventure-works.com",0
+1334,"Chic Department Stores","Purchasing Manager","Mr.","Clay","M.","Warthen","","903-555-0100","Cell","clay0@adventure-works.com",0
+1342,"Global Sports Outlet","Purchasing Manager","Mr.","Jason","M.","Watters","","131-555-0100","Cell","jason1@adventure-works.com",0
+1364,"Tandem Sales and Service","Purchasing Manager","Mr.","Robert","P.","Lyeba","","631-555-0155","Cell","robert8@adventure-works.com",0
+1448,"Friendly Neighborhood Bikes","Purchasing Manager","Mr.","R. Morgan","L.","Mendoza","","963-555-0146","Cell","rmorgan0@adventure-works.com",0
+1454,"Recommended Bicycles","Purchasing Manager","Mr.","Stephen","A.","Mew","","399-555-0114","Work","stephen4@adventure-works.com",0
+1462,"Small Bike Accessories Shop","Purchasing Manager","Mr.","Gary","P.","Meyerhoff","","962-555-0139","Cell","gary3@adventure-works.com",0
+1472,"Tachometers and Accessories","Purchasing Manager","Mr.","Matthew","J.","Miller","","1 (11) 500 555-0176","Cell","matthew5@adventure-works.com",0
+1808,"Transport Bikes","Purchasing Manager","Mr.","Vassar","J.","Stern","","328-555-0123","Cell","vassar0@adventure-works.com",0
+1822,"Gift and Toy Store","Purchasing Manager","Mr.","Robert","B.","Stotka","","493-555-0185","Work","robert12@adventure-works.com",0
+1826,"Executive Discount Store","Purchasing Manager","Mr.","Charles","J.","Strange","","112-555-0160","Work","charles2@adventure-works.com",0
+294,"Professional Sales and Service","Owner","Ms.","Catherine","R.","Abel","","747-555-0171","Cell","catherine0@adventure-works.com",1
+302,"Area Bike Accessories","Owner","Ms.","Frances","B.","Adams","","991-555-0183","Work","frances0@adventure-works.com",1
+304,"Bicycle Accessories and Kits","Owner","Ms.","Margaret","J.","Smith","","959-555-0151","Cell","margaret0@adventure-works.com",0
+306,"Clamps & Brackets Co.","Owner","Ms.","Carla","J.","Adams","","107-555-0138","Cell","carla0@adventure-works.com",0
+322,"Irregulars Outlet","Owner","Ms.","Lili","J.","Alameda","","1 (11) 500 555-0150","Cell","lili0@adventure-works.com",1
+324,"Valley Toy Store","Owner","Ms.","Amy","E.","Alberts","","727-555-0115","Work","amy1@adventure-works.com",1
+326,"Worthwhile Activity Store","Owner","Ms.","Anna","A.","Albright","","197-555-0143","Work","anna0@adventure-works.com",1
+350,"Twin Cycles","Owner","Ms.","Sandra","J.","Altamirano","","1 (11) 500 555-0190","Cell","sandra1@adventure-works.com",0
+352,"Tiny Bike Boutique","Owner","Ms.","Selena","R.","Alvarado","","781-555-0199","Cell","selena0@adventure-works.com",0
+394,"Blue-Ribbon Bike Company","Owner","Ms.","Jennifer","B.","Bales","","790-555-0112","Work","jennifer0@adventure-works.com",1
+408,"Nearest Bike Store","Owner","Ms.","Rebecca","R.","Barley","","1 (11) 500 555-0151","Work","rebecca1@adventure-works.com",2
+416,"Teen Discount Store","Owner","Ms.","Norma","N.","Barrera","","1 (11) 500 555-0187","Cell","norma0@adventure-works.com",2
+490,"Commuter Bicycle Store","Owner","Ms.","Jackie","E.","Blackwell","","972-555-0163","Cell","jackie0@adventure-works.com",1
+494,"Travel Systems","Owner","Ms.","Linda","E.","Burnett","","121-555-0121","Work","linda4@adventure-works.com",2
+520,"Modern Bike Store","Owner","Ms.","Sara","N.","Breer","","545-555-0183","Work","sara0@adventure-works.com",0
+530,"Outdoor Distributors","Owner","Ms.","Silvia","M.","Walker","","961-555-0100","Work","silvia0@adventure-works.com",1
+546,"Client Discount Store","Owner","Ms.","Mary","K.","Browning","","658-555-0146","Work","mary5@adventure-works.com",1
+550,"Helmets and Cycles","Owner","Ms.","Bridget","E.","Browqett","","1 (11) 500 555-0122","Work","bridget0@adventure-works.com",1
+570,"Professional Cycle Store","Owner","Ms.","Megan","E.","Burke","","148-555-0149","Cell","megan0@adventure-works.com",2
+598,"Sheet Metal Manufacturing","Owner","Ms.","Barbara","J.","Calone","","145-555-0152","Cell","barbara2@adventure-works.com",0
+600,"Thorough Parts and Repair Services","Owner","Ms.","Lindsey","R.","Camacho","","827-555-0143","Work","lindsey0@adventure-works.com",0
+650,"Distance Bikes","Owner","Ms.","Pamela","A.","Carlson","","353-555-0188","Work","pamela1@adventure-works.com",2
+784,"Online Bike Catalog","Owner","Ms.","Ann","B.","Wilson","","446-555-0100","Work","ann3@adventure-works.com",1
+790,"Preferred Bikes","Owner","Ms.","Vivian","M.","Whipple","","176-555-0100","Cell","vivian0@adventure-works.com",2
+818,"Suburban Cycle Shop","Owner","Ms.","Cindy","M.","Dodd","","706-555-0140","Cell","cindy0@adventure-works.com",2
+928,"Rural Cycle Emporium","Owner","Ms.","Kathleen","M.","Garza","","150-555-0127","Cell","kathleen0@adventure-works.com",2
+932,"Modular Cycle Systems","Owner","Ms.","Janet","M.","Gates","","710-555-0173","Work","janet1@adventure-works.com",0
+940,"Cycles Wholesaler & Mfg.","Owner","Ms.","Barbara","J.","German","","1 (11) 500 555-0181","Cell","barbara4@adventure-works.com",0
+990,"Locks Company","Owner","Ms.","Janice","A.","Vrins","","282-555-0100","Work","janice2@adventure-works.com",2
+994,"Incomparable Bicycle Store","Owner","Ms.","Florence","M.","Vonholt","","128-555-0100","Cell","florence0@adventure-works.com",0
+1000,"Games and Sport Supply Company","Owner","Ms.","Filomena","T.","Visser","","874-555-0100","Cell","filomena0@adventure-works.com",0
+1006,"Economic Parts Supply","Owner","Ms.","Homer","J.","Villa","","129-555-0100","Work","homer0@adventure-works.com",0
+1012,"Stylish Department Stores","Owner","Ms.","Merrill","R.","Steel","","513-555-0100","Cell","merrill0@adventure-works.com",1
+1014,"Bike World","Owner","Ms.","Beth","K.","Stanley","","572-555-0100","Cell","beth1@adventure-works.com",0
+1028,"Progressive Sports","Owner","Ms.","Geraldine","T.","Spicer","","230-555-0100","Cell","geraldine0@adventure-works.com",1
+1034,"The Accessories Store","Owner","Ms.","Ann","T.","Hass","","713-555-0168","Cell","ann2@adventure-works.com",2
+1044,"Superb Sales and Repair","Owner","Ms.","Brenda","F.","Heaney","","393-555-0167","Work","brenda3@adventure-works.com",0
+1050,"First Bike Store","Owner","Ms.","Valerie","M.","Hendricks","","859-555-0140","Cell","valerie0@adventure-works.com",1
+1058,"Mass Market Bikes","Owner","Ms.","Deena","J.","Herman","","1 (11) 500 555-0197","Cell","deena0@adventure-works.com",2
+1060,"Operational Manufacturing","Owner","Ms.","Irene","J.","Hernandez","","790-555-0197","Work","irene0@adventure-works.com",0
+1064,"Retread Tire Company","Owner","Ms.","Pam","L.","Herrick","","456-555-0184","Cell","pam0@adventure-works.com",0
+1066,"Small Bike Shop","Owner","Ms.","Cheryl","M.","Herring","","158-555-0154","Cell","cheryl0@adventure-works.com",0
+1072,"Producer Goods Clearinghouse","Owner","Ms.","Onetha","F.","Higgs","","1 (11) 500 555-0178","Work","onetha0@adventure-works.com",1
+1074,"Recreation Systems","Owner","Ms.","Fran","P.","Highfill","","117-555-0110","Cell","fran0@adventure-works.com",0
+1076,"Rustic Bike Store","Owner","Ms.","Geneva","T.","Hill","","1 (11) 500 555-0144","Cell","geneva0@adventure-works.com",2
+1086,"Seventh Bike Store","Owner","Ms.","Nancy","E.","Hirota","","860-555-0119","Cell","nancy2@adventure-works.com",0
+1098,"Strenuous Exercise Shop","Owner","Ms.","Holly","J.","Holt","","654-555-0150","Cell","holly1@adventure-works.com",0
+1102,"Leisure Clearing House","Owner","Ms.","Jean","J.","Holloway","","1 (11) 500 555-0181","Work","jean2@adventure-works.com",1
+1108,"Affordable Sports Equipment","Owner","Ms.","Juanita","J.","Holman","","996-555-0196","Cell","juanita0@adventure-works.com",2
+1166,"Home Town Bike Store","Owner","Ms.","Danielle","B.","Johnson","","356-555-0190","Cell","danielle1@adventure-works.com",1
+1186,"Basic Bike Company","Owner","Ms.","Peggy","J.","Justice","","170-555-0189","Cell","peggy0@adventure-works.com",0
+1188,"Fabrikam Inc., West","Owner","Ms.","Diane","F.","Krane","","224-555-0126","Work","diane4@adventure-works.com",0
+1192,"Non-Slip Pedal Company","Owner","Ms.","Sandra","T.","Kitt","","303-555-0117","Cell","sandra2@adventure-works.com",0
+1202,"Noiseless Gear Company","Owner","Ms.","Judith","F.","Krane","","165-555-0172","Work","judith1@adventure-works.com",2
+1204,"Racing Toys","Owner","Ms.","Kay","E.","Krane","","731-555-0187","Work","kay0@adventure-works.com",0
+1220,"Commerce Bicycle Specialists","Owner","Ms.","Mary","R.","Kesslep","","1 (11) 500 555-0146","Cell","mary8@adventure-works.com",0
+1222,"Township Inn","Owner","Ms.","Alice","L.","Kesterson","","1 (11) 500 555-0132","Work","alice2@adventure-works.com",0
+1226,"Brown Bicycle Company","Owner","Ms.","Tammy","J.","Khan","","145-555-0166","Work","tammy0@adventure-works.com",0
+1258,"Scooters and Bikes Store","Owner","Ms.","Joy","R.","Koski","","810-555-0198","Cell","joy0@adventure-works.com",0
+1260,"Closest Bicycle Store","Owner","Ms.","Pamala","M.","Kotc","","1 (11) 500 555-0173","Work","pamala0@adventure-works.com",2
+1270,"Outdoor Sports Supply","Owner","Ms.","Margaret","T.","Krupka","","107-555-0132","Work","margaret1@adventure-works.com",0
+1286,"Neighborhood Bicycle Storehouse","Owner","Ms.","Cecilia","M.","Laursen","","1 (11) 500 555-0181","Work","cecilia0@adventure-works.com",0
+1332,"Catalog Store","Owner","Ms.","Ruth","B.","Ward","","469-555-0100","Work","ruth3@adventure-works.com",0
+1336,"Eastside Department Store","Owner","Ms.","Irene","J.","Watada","","794-555-0100","Cell","irene1@adventure-works.com",2
+1344,"Exotic Bikes","Owner","Ms.","Kristin","M.","Watts","","321-555-0100","Cell","kristin1@adventure-works.com",1
+1348,"Healthy Activity Store","Owner","Ms.","Francis","F.","Weber","","758-555-0100","Cell","francis0@adventure-works.com",0
+1874,"Eighth Bike Store","Owner","Ms.","Vanessa","J.","Tench","","785-555-0163","Work","vanessa0@adventure-works.com",2
+1876,"Demand Distributors","Owner","Ms.","Judy","J.","Thames","","799-555-0118","Cell","judy3@adventure-works.com",0
+1878,"Immediate Repair Shop","Owner","Ms.","Karen","M.","Theisen","","246-555-0110","Cell","karen4@adventure-works.com",2
+1882,"Red Bicycle Company","Owner","Ms.","Phyllis","A.","Thomas","","667-555-0112","Cell","phyllis2@adventure-works.com",1
+1888,"Vintage Sport Boutique","Owner","Ms.","Kendra","N.","Thompson","","464-555-0188","Cell","kendra0@adventure-works.com",0
+1892,"West Side Mart","Owner","Ms.","Andrea","A.","Thomsen","","1 (11) 500 555-0120","Work","andrea1@adventure-works.com",1
+1894,"The Bike Outlet","Owner","Ms.","Rossane","L.","Thoreson","","1 (11) 500 555-0131","Cell","rossane0@adventure-works.com",2
+1910,"Wingtip Toys","Owner","Ms.","Delia","B.","Toone","","328-555-0192","Work","delia0@adventure-works.com",1
+1914,"Educational Services","Owner","Ms.","Anna","F.","Townsend","","1 (11) 500 555-0147","Cell","anna1@adventure-works.com",0
+1922,"A Cycle Shop","Owner","Ms.","Olga","J.","Trau","","398-555-0167","Cell","olga0@adventure-works.com",0
+1924,"Bike Products and Accessories","Owner","Ms.","Doris","J.","Traube","","881-555-0139","Cell","doris2@adventure-works.com",0
+1926,"Fitness Toys","Owner","Ms.","Jean","E.","Trenary","","1 (11) 500 555-0115","Work","jean4@adventure-works.com",1
+1934,"A Typical Bike Shop","Owner","Ms.","Christie","J.","Trujillo","","686-555-0180","Cell","christie0@adventure-works.com",0
+1938,"Cycle Parts and Accessories","Owner","Ms.","Gracia","B.","Tuell","","1 (11) 500 555-0179","Cell","gracia0@adventure-works.com",0
+1940,"Fasteners & Bolts Outlet","Owner","Ms.","Phyllis","B.","Tuffield","","277-555-0182","Cell","phyllis3@adventure-works.com",0
+1942,"Functional Store North","Owner","Ms.","Mary","J.","Tullao","","695-555-0128","Cell","mary11@adventure-works.com",1
+1948,"Classic Cycle Store","Owner","Ms.","Mary","J.","Vaca","","612-555-0149","Work","mary12@adventure-works.com",0
+1950,"Helpful Sales and Repair Service","Owner","Ms.","Rachel","B.","Valdez","","1 (11) 500 555-0189","Cell","rachel1@adventure-works.com",0
+1952,"Large Bike Shop","Owner","Ms.","Esther","K.","Valle","","481-555-0131","Work","esther0@adventure-works.com",1
+1982,"Mail-Order Outlet","Owner","Ms.","Patricia","M.","Vasquez","","490-555-0132","Work","patricia2@adventure-works.com",0
+1988,"Retreat Inn","Owner","Ms.","Dora","P.","Verdad","","155-555-0140","Cell","dora0@adventure-works.com",2
+1990,"Technical Parts Manufacturing","Owner","Ms.","Wanda","F.","Vernon","","433-555-0168","Work","wanda0@adventure-works.com",0
+1994,"World of Bikes","Owner","Ms.","Caroline","A.","Vicknair","","695-555-0158","Cell","caroline0@adventure-works.com",0
+2051,"A Bicycle Association","Owner","Ms.","Kathleen","J.","Winter","","842-555-0125","Work","kathleen1@adventure-works.com",1
+340,"eCommerce Bikes","Purchasing Agent","Ms.","Phyllis","A.","Allen","","695-555-0111","Work","phyllis0@adventure-works.com",1
+358,"Quality Bike Sales","Purchasing Agent","Ms.","Mae","N.","Anderson","","1 (11) 500 555-0181","Cell","mae0@adventure-works.com",0
+360,"Novelty Bikes","Purchasing Agent","Ms.","Ramona","J.","Antrim","","327-555-0148","Cell","ramona0@adventure-works.com",0
+362,"Distinctive Cycles Sales & Service","Purchasing Agent","Ms.","Sabria","B.","Appelbaum","","922-555-0193","Cell","sabria0@adventure-works.com",0
+422,"Bike Boutique","Purchasing Agent","Ms.","Karel","E.","Bates","","916-555-0133","Cell","karel0@adventure-works.com",1
+460,"Pro Sporting Goods","Purchasing Agent","Ms.","Marian","M.","Berch","","640-555-0198","Work","marian0@adventure-works.com",0
+482,"Favorite Toy Distributor","Purchasing Agent","Ms.","Mary","B.","Billstrom","","1 (11) 500 555-0136","Cell","mary3@adventure-works.com",1
+528,"Parcel Express Delivery Service","Purchasing Agent","Ms.","Hazel","R.","Walker","","325-555-0100","Cell","hazel0@adventure-works.com",0
+538,"Amalgamated Parts Shop","Purchasing Agent","Ms.","Carolee","J.","Brown","","1 (11) 500 555-0146","Cell","carolee0@adventure-works.com",0
+556,"Mechanical Products Ltd.","Purchasing Agent","Ms.","Cynthia","J.","White","","464-555-0100","Cell","cynthia2@adventure-works.com",0
+584,"Curbside Universe","Purchasing Agent","Ms.","Deanna","R.","Buskirk","","131-555-0171","Cell","deanna0@adventure-works.com",1
+594,"Racing Store","Purchasing Agent","Ms.","Sylvia","A.","Caldwell","","1 (11) 500 555-0122","Work","sylvia0@adventure-works.com",1
+596,"Metro Metals Co.","Purchasing Agent","Ms.","Mari","B.","Caldwell","","1 (11) 500 555-0118","Work","mari0@adventure-works.com",2
+618,"Petroleum Products Distributors","Purchasing Agent","Ms.","Suzana De Abreu","A.","Canuto","","990-555-0141","Cell","suzanadeabreu0@adventure-works.com",2
+642,"Advanced Bike Components","Purchasing Agent","Ms.","Donna","F.","Carreras","","279-555-0130","Cell","donna0@adventure-works.com",1
+644,"Aerobic Exercise Company","Purchasing Agent","Ms.","Rosmarie","J.","Carroll","","244-555-0112","Cell","rosmarie0@adventure-works.com",0
+654,"Ultimate Bike Shop","Purchasing Agent","Ms.","Elizabeth","E.","Catalano","","242-555-0181","Cell","elizabeth1@adventure-works.com",0
+658,"Vigorous Sports Store","Purchasing Agent","Ms.","Brigid","F.","Cavendish","","1 (11) 500 555-0178","Work","brigid0@adventure-works.com",1
+662,"Fitness Toy Store","Purchasing Agent","Ms.","Stacey","M.","Cereghino","","351-555-0131","Work","stacey0@adventure-works.com",1
+694,"Genuine Bike Shop","Purchasing Agent","Ms.","Ruth","A.","Choin","","273-555-0181","Cell","ruth1@adventure-works.com",0
+758,"Nearby Bike Mall","Purchasing Agent","Ms.","Shelley","R.","Crow","","1 (11) 500 555-0148","Work","shelley1@adventure-works.com",0
+774,"Rugged Bikes","Purchasing Agent","Ms.","Megan","N.","Davis","","839-555-0198","Cell","megan1@adventure-works.com",0
+784,"Online Bike Catalog","Purchasing Agent","Ms.","Barbara","S.","Decker","","1 (11) 500 555-0113","Cell","barbara3@adventure-works.com",0
+794,"Rewarding Activities Company","Purchasing Agent","Ms.","Della","F.","Demott Jr","","752-555-0185","Work","della0@adventure-works.com",0
+798,"Sales and Supply Company","Purchasing Agent","Ms.","Helen","J.","Dennis","","572-555-0156","Cell","helen0@adventure-works.com",2
+834,"Functional Store South","Purchasing Agent","Ms.","Tish","R.","Duff","","1 (11) 500 555-0178","Work","tish0@adventure-works.com",2
+844,"Future Bikes","Purchasing Agent","Ms.","Linda","R.","Ecoffey","","674-555-0188","Work","linda5@adventure-works.com",2
+846,"Super Sports Store","Purchasing Agent","Ms.","Carla","L.","Eldridge","","186-555-0135","Cell","carla1@adventure-works.com",0
+848,"Satin Finish Company","Purchasing Agent","Ms.","Carol","B.","Elliott","","847-555-0151","Work","carol2@adventure-works.com",2
+850,"Regional Manufacturing","Purchasing Agent","Ms.","Shannon","P.","Elliott","","425-555-0158","Cell","shannon0@adventure-works.com",0
+852,"Original Bicycle Supply Company","Purchasing Agent","Ms.","Jauna","E.","Elson","","185-555-0190","Work","jauna0@adventure-works.com",1
+864,"Price-Cutter Discount Bikes","Purchasing Agent","Ms.","Martha","R.","Espinoza","","753-555-0179","Cell","martha0@adventure-works.com",1
+866,"Brand New Bikes","Purchasing Agent","Ms.","Julie","P.","Estes","","1 (11) 500 555-0123","Cell","julie0@adventure-works.com",2
+870,"Vast Bike Sales and Rental","Purchasing Agent","Ms.","Twanna","R.","Evans","","554-555-0124","Cell","twanna0@adventure-works.com",2
+872,"Summer Sports Place","Purchasing Agent","Ms.","Ann","R.","Evans","","252-555-0127","Cell","ann1@adventure-works.com",1
+882,"Safe Toys","Purchasing Agent","Ms.","Geri","P.","Farrell","","329-555-0183","Cell","geri0@adventure-works.com",1
+886,"Our Sporting Goods Store","Purchasing Agent","Ms.","Rhoda","J.","Finley","","920-555-0191","Work","rhoda0@adventure-works.com",0
+954,"Futuristic Sport Distributors","Purchasing Agent","Ms.","Mary","M.","Gimmi","","149-555-0196","Work","mary6@adventure-works.com",0
+960,"The Showroom","Purchasing Agent","Ms.","Diane","R.","Glimp","","898-555-0137","Work","diane3@adventure-works.com",0
+972,"Major Bicycle Store","Purchasing Agent","Ms.","Lynn","A.","Gonzales","","1 (11) 500 555-0180","Cell","lynn1@adventure-works.com",0
+974,"Leather and Vinyl Manufacturing","Purchasing Agent","Ms.","Linda","L.","Gonzales","","433-555-0162","Work","linda6@adventure-works.com",0
+976,"Genial Bike Associates","Purchasing Agent","Ms.","Abigail","J.","Gonzalez","","121-555-0139","Cell","abigail0@adventure-works.com",0
+986,"Metro Manufacturing","Purchasing Agent","Ms.","Julie","P.","Waggoner","","195-555-0100","Work","julie2@adventure-works.com",2
+998,"Greater Bike Store","Purchasing Agent","Ms.","Helen","J.","Vlass","","579-555-0100","Cell","helen3@adventure-works.com",0
+1010,"Cross-Country Riding Supplies","Purchasing Agent","Ms.","Joan","P.","Steele","","176-555-0100","Work","joan1@adventure-works.com",0
+1026,"Metropolitan Sports Supply","Purchasing Agent","Ms.","Kristin","R.","Spanaway","","755-555-0100","Work","kristin0@adventure-works.com",2
+1126,"Hardware Components","Purchasing Agent","Ms.","Phyllis","R.","Huntsman","","153-555-0195","Cell","phyllis1@adventure-works.com",2
+1294,"Go-cart and Bike Specialists","Purchasing Agent","Ms.","Marjorie","M.","Lee","","306-555-0166","Cell","marjorie0@adventure-works.com",0
+1308,"More Bikes!","Purchasing Agent","Ms.","Bonnie","B.","Lepro","","354-555-0130","Work","bonnie2@adventure-works.com",0
+1310,"Unified Sports Company","Purchasing Agent","Ms.","Gloria","J.","Lesko","","296-555-0171","Work","gloria0@adventure-works.com",0
+1318,"Town Industries","Purchasing Agent","Ms.","Elsie","L.","Lewin","","803-555-0116","Work","elsie0@adventure-works.com",0
+1346,"Fitness Hotel","Purchasing Agent","Ms.","Sharon","J.","Looney","","377-555-0132","Work","sharon2@adventure-works.com",0
+1352,"Grand Industries","Purchasing Agent","Ms.","Anita","R.","Lucerne","","164-555-0118","Work","anita0@adventure-works.com",1
+1358,"Leading Sales & Repair","Purchasing Agent","Ms.","Judy","R.","Lundahl","","260-555-0130","Cell","judy1@adventure-works.com",0
+1362,"Metro Bike Mart","Purchasing Agent","Ms.","Helen","R.","Lutes","","565-555-0181","Cell","helen1@adventure-works.com",2
+1410,"Exclusive Bicycle Mart","Purchasing Agent","Ms.","Jennifer","J.","Maxham","","1 (11) 500 555-0175","Work","jennifer1@adventure-works.com",0
+1414,"Bike Dealers Association","Purchasing Agent","Ms.","Sandra","B.","Maynard","","993-555-0179","Cell","sandra4@adventure-works.com",1
+1418,"Health Spa, Limited","Purchasing Agent","Ms.","Robin","M.","McGuigan","","431-555-0153","Cell","robin0@adventure-works.com",1
+1420,"Global Bike Retailers","Purchasing Agent","Ms.","Stacie","K.","Mcanich","","1 (11) 500 555-0179","Work","stacie0@adventure-works.com",0
+1424,"Closeout Boutique","Purchasing Agent","Ms.","Lola","M.","McCarthy","","173-555-0151","Cell","lola0@adventure-works.com",0
+1426,"Bicycle Merchandise Warehouse","Purchasing Agent","Ms.","Jane","A.","McCarty","","529-555-0195","Work","jane3@adventure-works.com",2
+1432,"Good Bicycle Store","Purchasing Agent","Ms.","Christinia","A.","McDonald","","1 (11) 500 555-0158","Cell","christinia0@adventure-works.com",1
+1828,"Major Cycling","Purchasing Agent","Ms.","Ruby Sue","R.","Styles","","512-555-0122","Work","rubysue0@adventure-works.com",0
+1834,"Bike Experts","Purchasing Agent","Ms.","Ruth","J.","Suffin","","924-555-0195","Work","ruth2@adventure-works.com",1
+1836,"Extraordinary Bike Works","Purchasing Agent","Ms.","Elizabeth","J.","Sullivan","","306-555-0112","Cell","elizabeth4@adventure-works.com",1
+1840,"Top Sports Supply","Purchasing Agent","Ms.","Marcia","J.","Sultan","","613-555-0116","Cell","marcia0@adventure-works.com",0
+1852,"Top Bike Market","Purchasing Agent","Ms.","Katherine","K.","Swan","","421-555-0192","Work","katherine1@adventure-works.com",2
+1964,"Extended Tours","Purchasing Agent","Ms.","Rose","M.","Vandenouer","","1 (11) 500 555-0140","Work","rose1@adventure-works.com",0
+1970,"Permanent Finish Products","Purchasing Agent","Ms.","Margaret","J.","Vanderkamp","","265-555-0143","Work","margaret2@adventure-works.com",0
+1972,"Mercantile Outlet","Purchasing Agent","Ms.","Kara","N.","Vanderlinden","","680-555-0160","Cell","kara0@adventure-works.com",0
+364,"Leading Bike Distributors","Purchasing Manager","Ms.","Hannah","R.","Arakawa","","500-555-0134","Work","hannah0@adventure-works.com",0
+366,"Activity Center","Purchasing Manager","Ms.","Kyley","J.","Arbelaez","","717-555-0131","Work","kyley0@adventure-works.com",1
+410,"Fast Bike Works","Purchasing Manager","Ms.","Brenda","L.","Barlow","","1 (11) 500 555-0168","Work","brenda1@adventure-works.com",1
+426,"Cross-town Parts Shop","Purchasing Manager","Ms.","Glenna","L.","Beanston","","1 (11) 500 555-0113","Work","glenna0@adventure-works.com",0
+450,"Unsurpassed Bikes","Purchasing Manager","Ms.","Edna","J.","Benson","","789-555-0189","Work","edna0@adventure-works.com",0
+468,"Topnotch Bikes","Purchasing Manager","Ms.","Kris","R.","Bergin","","144-555-0175","Work","kris0@adventure-works.com",0
+488,"Historic Bicycle Sales","Purchasing Manager","Ms.","Mae","M.","Black","","264-555-0143","Work","mae1@adventure-works.com",2
+498,"Moderately-Priced Bikes Store","Purchasing Manager","Ms.","Gabriel","L.","Bockenkamp","","763-555-0145","Work","gabriel0@adventure-works.com",0
+530,"Outdoor Distributors","Purchasing Manager","Ms.","Carol","J.","Brink","","513-555-0149","Work","carol1@adventure-works.com",0
+558,"Commendable Bikes","Purchasing Manager","Ms.","Shirley","R.","Bruner","","383-555-0155","Work","shirley0@adventure-works.com",2
+560,"Online Bike Sellers","Purchasing Manager","Ms.","June","B.","Brunner","","249-555-0172","Work","june0@adventure-works.com",0
+572,"Bike Universe","Purchasing Manager","Ms.","Ingrid","K.","Burkhardt","","857-555-0187","Work","ingrid0@adventure-works.com",0
+574,"Fifth Bike Store","Purchasing Manager","Ms.","Karren","K.","Burkhardt","","652-555-0132","Cell","karren0@adventure-works.com",0
+578,"Rambling Tours","Purchasing Manager","Ms.","Dana","H.","Burnell","","1 (11) 500 555-0136","Work","dana0@adventure-works.com",0
+604,"Mechanical Sports Center","Purchasing Manager","Ms.","DeeDee","J.","Cameron","","377-555-0158","Cell","deedee0@adventure-works.com",1
+606,"Speedometer Sales","Purchasing Manager","Ms.","Deborah","M.","Lee","","1 (11) 500 555-0190","Work","deborah1@adventure-works.com",0
+608,"Two-Wheeled Transit Company","Purchasing Manager","Ms.","Joan","M.","Campbell","","700-555-0155","Cell","joan0@adventure-works.com",0
+630,"Rural Department Store","Purchasing Manager","Ms.","Jane","N.","Carmichael","","716-555-0167","Work","jane0@adventure-works.com",1
+632,"Sports Commodities","Purchasing Manager","Ms.","Jovita","A.","Carmody","","646-555-0137","Work","jovita0@adventure-works.com",0
+642,"Advanced Bike Components","Purchasing Manager","Ms.","Joanna","B.","Wall","","127-555-0100","Work","joanna0@adventure-works.com",1
+686,"Full-Service Bike Store","Purchasing Manager","Ms.","Nicky","E.","Chesnut","","264-555-0164","Work","nicky0@adventure-works.com",2
+688,"Plastic Products Manufacturers","Purchasing Manager","Ms.","Susan","B.","Chestnut","","1 (11) 500 555-0181","Cell","susan2@adventure-works.com",0
+700,"Fleet Bikes","Purchasing Manager","Ms.","Jill","J.","Christie","","927-555-0198","Work","jill1@adventure-works.com",0
+704,"Only Bikes and Accessories","Purchasing Manager","Ms.","Gina","N.","Clark","","539-555-0142","Cell","gina0@adventure-works.com",2
+710,"Wonderful Bikes Inc.","Purchasing Manager","Ms.","Kristine","J.","Cleary","","250-555-0127","Cell","kristine0@adventure-works.com",2
+712,"Another Sporting Goods Company","Purchasing Manager","Ms.","Teanna","M.","Cobb","","661-555-0168","Work","teanna0@adventure-works.com",2
+714,"Discount Bicycle Specialists","Purchasing Manager","Ms.","Connie","L.","Coffman","","426-555-0181","Cell","connie0@adventure-works.com",0
+716,"Famous Bike Sales and Service","Purchasing Manager","Ms.","Jeanette","R.","Cole","","159-555-0190","Work","jeanette0@adventure-works.com",2
+736,"Primary Cycle Shop","Purchasing Manager","Ms.","Amy","R.","Consentino","","1 (11) 500 555-0133","Work","amy2@adventure-works.com",0
+738,"Sixth Bike Store","Purchasing Manager","Ms.","Dorothy","J.","Contreras","","428-555-0176","Work","dorothy0@adventure-works.com",0
+752,"Elemental Sporting Goods","Purchasing Manager","Ms.","Pamela","R.","Cox","","945-555-0112","Work","pamela2@adventure-works.com",1
+756,"Grand Cycle Store","Purchasing Manager","Ms.","Sharon","A.","Crow","","889-555-0176","Work","sharon1@adventure-works.com",2
+782,"Neighborhood Store","Purchasing Manager","Ms.","Gail","M.","Westover","","305-555-0100","Cell","gail2@adventure-works.com",1
+802,"Successful Sales Company","Purchasing Manager","Ms.","Bev","L.","Desalvo","","143-555-0113","Work","bev0@adventure-works.com",1
+902,"Cash & Carry Bikes","Purchasing Manager","Ms.","Dorothy","J.","Fox","","191-555-0198","Work","dorothy1@adventure-works.com",2
+904,"Convenient Bike Shop","Purchasing Manager","Ms.","Judith","B.","Frazier","","721-555-0163","Work","judith0@adventure-works.com",0
+908,"General Bike Corporation","Purchasing Manager","Ms.","Susan","E.","French","","994-555-0194","Work","susan3@adventure-works.com",0
+922,"Parts Shop","Purchasing Manager","Ms.","Aldeen","J.","Gallagher","","653-555-0170","Work","aldeen0@adventure-works.com",2
+952,"Active Systems","Purchasing Manager","Ms.","Janet","J.","Gilliat","","521-555-0183","Cell","janet2@adventure-works.com",0
+986,"Metro Manufacturing","Purchasing Manager","Ms.","Jane","P.","Greer","","737-555-0163","Cell","jane2@adventure-works.com",1
+994,"Incomparable Bicycle Store","Purchasing Manager","Ms.","Faith","M.","Gustafson","","479-555-0129","Work","faith0@adventure-works.com",1
+998,"Greater Bike Store","Purchasing Manager","Ms.","Hattie","J.","Haemon","","141-555-0172","Cell","hattie0@adventure-works.com",0
+1002,"Distant Inn","Purchasing Manager","Ms.","Erin","M.","Hagens","","244-555-0127","Cell","erin1@adventure-works.com",0
+1004,"Finer Mart","Purchasing Manager","Ms.","Betty","M.","Haines","","867-555-0114","Cell","betty0@adventure-works.com",2
+1006,"Economic Parts Supply","Purchasing Manager","Ms.","Karen","E.","Hall","","623-555-0153","Cell","karen3@adventure-works.com",0
+1016,"Central Discount Store","Purchasing Manager","Ms.","Jean","P.","Handley","","582-555-0113","Cell","jean1@adventure-works.com",2
+1024,"Exemplary Cycles","Purchasing Manager","Ms.","Kimberly","Beth","Harrington","","872-555-0171","Cell","kimberly1@adventure-works.com",1
+1116,"Area Sheet Metal Supply","Purchasing Manager","Ms.","Janice","K.","Hows","","1 (11) 500 555-0119","Cell","janice1@adventure-works.com",2
+1140,"Express Bike Services","Purchasing Manager","Ms.","Denean","J.","Ison","","1 (11) 500 555-0127","Work","denean0@adventure-works.com",1
+1148,"A Great Bicycle Company","Purchasing Manager","Ms.","Jodan","M.","Jacobson","","652-555-0189","Cell","jodan0@adventure-works.com",0
+1156,"Leisure Activities","Purchasing Manager","Ms.","Vance","P.","Johns","","103-555-0151","Work","vance0@adventure-works.com",0
+1338,"Sports Sales and Rental","Purchasing Manager","Ms.","Becky","R.","Waters","","368-555-0100","Cell","becky0@adventure-works.com",1
+1352,"Grand Industries","Purchasing Manager","Ms.","Dorothy","L.","Weimer","","897-555-0100","Work","dorothy4@adventure-works.com",0
+1356,"Larger Cycle Shop","Purchasing Manager","Ms.","Alexandra","K.","Wellington","","317-555-0100","Cell","alexandra0@adventure-works.com",0
+1366,"Sensible Sports","Purchasing Manager","Ms.","Sharon","F.","Lynn","","1 (11) 500 555-0159","Cell","sharon3@adventure-works.com",0
+1372,"Friendly Bike Shop","Purchasing Manager","Ms.","Denise","R.","Maccietto","","537-555-0190","Cell","denise1@adventure-works.com",0
+1380,"Impervious Paint Company","Purchasing Manager","Ms.","Kimberly","N.","Malmendier","","1 (11) 500 555-0134","Work","kimberly2@adventure-works.com",0
+1388,"Official Parts Shop","Purchasing Manager","Ms.","Kathy","R.","Marcovecchio","","942-555-0141","Cell","kathy0@adventure-works.com",0
+1390,"Contoso, Ltd.","Purchasing Manager","Ms.","Jill","K.","Markwood","","747-555-0113","Work","jill2@adventure-works.com",2
+1392,"Discount Tours","Purchasing Manager","Ms.","Melissa","R.","Marple","","685-555-0117","Cell","melissa0@adventure-works.com",2
+1394,"Tire Exchange","Purchasing Manager","Ms.","Cecelia","L.","Marshall","","394-555-0168","Cell","cecelia0@adventure-works.com",1
+1402,"Consumer Equipment","Purchasing Manager","Ms.","Sandra","I.","Martinez","","1 (11) 500 555-0113","Cell","sandra3@adventure-works.com",0
+1440,"Variety Cycling","Purchasing Manager","Ms.","Nancy","A.","McPhearson","","1 (11) 500 555-0195","Work","nancy3@adventure-works.com",2
+1442,"Accessories Network","Purchasing Manager","Ms.","Nellie","T.","Medina","","1 (11) 500 555-0162","Work","nellie0@adventure-works.com",0
+1446,"Curbside Sporting Goods","Purchasing Manager","Ms.","Gladys","F.","Mendiola","","535-555-0189","Cell","gladys0@adventure-works.com",0
+1458,"Alpine Ski House","Purchasing Manager","Ms.","Helen","M.","Meyer","","519-555-0112","Work","helen2@adventure-works.com",0
+1470,"All Cycle Shop","Purchasing Manager","Ms.","Virginia","L.","Miller","","918-555-0127","Work","virginia0@adventure-works.com",1
+1482,"Riding Associates","Purchasing Manager","Ms.","Neva","M.","Mitchell","","992-555-0134","Cell","neva0@adventure-works.com",0
+1796,"Professional Containers and Packaging Co.","Purchasing Manager","Ms.","Laura","C.","Steele","","741-555-0173","Work","laura3@adventure-works.com",0
+1798,"One Bike Company","Purchasing Manager","Ms.","Shanay","B.","Steelman","","797-555-0118","Work","shanay0@adventure-works.com",0
+1810,"Sellers of Cycles","Purchasing Manager","Ms.","Wathalee","R.","Steuber","","517-555-0120","Work","wathalee0@adventure-works.com",2
+1812,"Maintenance and Repair for Bicycles","Purchasing Manager","Ms.","Alice","M.","Steiner","","355-555-0180","Work","alice4@adventure-works.com",2
+1814,"Fitness Department Stores","Purchasing Manager","Ms.","Liza Marie","N.","Stevens","","366-555-0110","Cell","lizamarie0@adventure-works.com",2
+1818,"Eastward Bike Accessories","Purchasing Manager","Ms.","Judy","R.","Storjohann","","1 (11) 500 555-0151","Cell","judy2@adventure-works.com",2
+1824,"Major Sporting Goods","Purchasing Manager","Ms.","Kayla","M.","Stotler","","315-555-0131","Cell","kayla0@adventure-works.com",0
+370,"Resale Services","Owner","Mr.","Thomas","B.","Armstrong","Jr.","226-555-0146","Cell","thomas1@adventure-works.com",0
+432,"Bulk Discount Store","Owner","Mr.","Christopher","R.","Beck","Jr.","1 (11) 500 555-0132","Cell","christopher1@adventure-works.com",0
+442,"Another Bicycle Company","Owner","Mr.","Stanley","A.","Alan","Jr.","156-555-0126","Cell","stanley0@adventure-works.com",0
+812,"Sundry Sporting Goods","Owner","Mr.","Rudolph","J.","Dillon","Sr.","722-555-0169","Cell","rudolph0@adventure-works.com",0
+820,"Weekend Tours","Owner","Mr.","John","T.","Donovan","Jr.","754-555-0134","Work","john15@adventure-works.com",1
+1038,"Bike Part Wholesalers","Owner","Mr.","Neal","B.","Hasty","III","1 (11) 500 555-0191","Work","neal0@adventure-works.com",1
+1040,"Family Cycle Store","Owner","Mr.","James","B.","Haugh","Jr.","763-555-0120","Cell","james8@adventure-works.com",1
+1262,"Roadway Bicycle Supply","Owner","Mr.","Edward","J.","Kozlowski","Jr.","1 (11) 500 555-0170","Cell","edward1@adventure-works.com",0
+1274,"Self-Contained Cycle Parts Company","Owner","Mr.","Jeffrey","B.","Kung","Jr.","1 (11) 500 555-0127","Cell","jeffrey2@adventure-works.com",0
+1340,"Cycle Merchants","Owner","Mr.","Darren","M.","Watkins","Sr.","241-555-0100","Work","darren1@adventure-works.com",0
+1912,"The Cycle Store","Owner","Mr.","Alvin","J.","Torre","Jr.","505-555-0145","Cell","alvin0@adventure-works.com",1
+1916,"Active Life Toys","Owner","Mr.","Glenn","J.","Track","II","907-555-0170","Work","glenn0@adventure-works.com",0
+314,"Top of the Line Bikes","Purchasing Agent","Mr.","James","T.","Aguilar","Jr.","1 (11) 500 555-0198","Cell","james2@adventure-works.com",1
+464,"Odometers and Accessories Company","Purchasing Agent","Mr.","Alexander","J.","Berger","II","519-555-0151","Work","alexander0@adventure-works.com",1
+478,"Golf and Cycle Store","Purchasing Agent","Mr.","Steven","B.","Brown","IV","280-555-0124","Cell","steven1@adventure-works.com",0
+526,"Futuristic Bikes","Purchasing Agent","Mr.","Walter","J.","Brian","IV","163-555-0155","Work","walter0@adventure-works.com",1
+536,"Nonskid Tire Company","Purchasing Agent","Mr.","Willie","P.","Brooks","Jr.","525-555-0174","Work","willie0@adventure-works.com",2
+580,"Farthest Bike Store","Purchasing Agent","Mr.","Timothy","B.","Burnett","Jr.","251-555-0172","Cell","timothy0@adventure-works.com",2
+622,"Bikes and Motorbikes","Purchasing Agent","Mr.","Johnny","A.","Caprio","Jr.","112-555-0191","Work","johnny0@adventure-works.com",0
+888,"Lustrous Paints and Components","Purchasing Agent","Mr.","Duane","R.","Fitzgerald","Jr.","1 (11) 500 555-0115","Work","duane0@adventure-works.com",1
+958,"Big-Time Bike Store","Purchasing Agent","Ms.","Jeanie","R.","Glenn","PhD","669-555-0149","Work","jeanie0@adventure-works.com",2
+1430,"Leather Seat Factory","Purchasing Agent","Mr.","James","L.","McCoy","II","191-555-0151","Work","james12@adventure-works.com",0
+1848,"Designer Department Stores","Purchasing Agent","Mr.","Martin","J.","Svoboda","IV","132-555-0149","Work","martin1@adventure-works.com",2
+1966,"Convenient Sales and Service","Purchasing Agent","Mr.","Gregory","T.","Vanderbout","Jr.","684-555-0134","Work","gregory1@adventure-works.com",0
+1974,"Links Works","Purchasing Agent","Mr.","Carlos","M.","Vansant","Jr.","1 (11) 500 555-0158","Cell","carlos1@adventure-works.com",1
+1976,"Exhilarating Cycles","Purchasing Agent","Mr.","Nieves","J.","Vargas","II","371-555-0184","Cell","nieves0@adventure-works.com",0
+390,"Road-Way Mart","Purchasing Manager","Mr.","James","B.","Bailey","Jr.","234-555-0112","Work","james3@adventure-works.com",0
+392,"Small Cycle Store","Purchasing Manager","Mr.","Douglas","A.","Baldwin","Jr.","583-555-0130","Work","douglas1@adventure-works.com",0
+458,"Metallic Paint and Overcoat Co","Purchasing Manager","Mr.","Richard","M.","Bentley","Jr.","911-555-0153","Cell","richard0@adventure-works.com",0
+466,"Scratch-Resistant Finishes Company","Purchasing Manager","Mr.","John","M.","Berger","Jr.","156-555-0111","Cell","john10@adventure-works.com",0
+512,"Metal Processing Company","Purchasing Manager","Mr.","Lester","J.","Bowman","Sr.","844-555-0112","Work","lester0@adventure-works.com",0
+554,"Racks and Security Systems","Purchasing Manager","Mr.","Dick","R.","Brummer","Jr.","581-555-0189","Work","dick0@adventure-works.com",0
+590,"Full Sports Supply","Purchasing Manager","Mr.","David","J.","Byrnes","Sr.","1 (11) 500 555-0199","Cell","david13@adventure-works.com",1
+1362,"Metro Bike Mart","Purchasing Manager","Ms.","Kerry","N.","Westguard","PhD","823-555-0100","Cell","kerry0@adventure-works.com",0
+1376,"Sports Products Store","Purchasing Manager","Mr.","Walter","J.","Mays","Sr.","245-555-0191","Work","walter1@adventure-works.com",1
+1386,"Authentic Sales and Service","Purchasing Manager","Mr.","Tomas","M.","Manzanares","II","1 (11) 500 555-0178","Cell","tomas0@adventure-works.com",1
+1456,"Sunny Place Bikes","Purchasing Manager","Mr.","Eric","B.","Meyer","Jr.","235-555-0199","Cell","eric7@adventure-works.com",0
+1474,"Cycles Sales and Repair","Purchasing Manager","Mr.","Emilo","R.","Miller","Jr.","1 (11) 500 555-0181","Work","emilo0@adventure-works.com",0
+1490,"Engineered Bike Systems","Purchasing Manager","Mr.","Joseph","P.","Mitzner","Jr.","129-555-0164","Work","joseph4@adventure-works.com",2
